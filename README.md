@@ -21,7 +21,7 @@ The main objectives of this project are:
 - Transaction Details
 - Interactive Slicers (Year, Category, Vendor, Quarter, Month)
 
-## Key KPIs
+## Key Insights
 - Identified top spending categories contributing to total procurement cost
 - Highlighted key vendors with highest transaction volume
 - Observed monthly spending trends and fluctuations
