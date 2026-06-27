@@ -33,10 +33,5 @@ The main objectives of this project are:
 - Observed monthly spending trends and fluctuations
 - Enabled comparison between planned vs actual procurement activiti
 
-## Files
-- Power BI file
-- Dataset
-- Dashboard report
-
 ## Disclaimer
 This project is created for portfolio and learning purposes. Any datasets used have been anonymized or are intended solely for demonstration purposes.
