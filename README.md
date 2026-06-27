@@ -10,12 +10,6 @@ The main objectives of this project are:
 - To monitor procurement trends over time
 - To support data-driven decision making for management
 
-## Tools & Technologies
-- Microsoft Excel (Data Preparation)
-- Power BI (Dashboard Development)
-- DAX (Data Analysis Expressions)
-- Data Visualization Technique
-
 ## Dashboard Features
 - Procurement Spend Overview
 - Spend by Category
