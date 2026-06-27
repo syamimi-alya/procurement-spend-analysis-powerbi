@@ -34,9 +34,9 @@ The main objectives of this project are:
 - Enabled comparison between planned vs actual procurement activiti
 
 ## Files
-- Power BI file (.pbix)
-- Dataset (.xlsx)
-- Dashboard report (.pdf)
+- Power BI file
+- Dataset
+- Dashboard report
 
 ## Disclaimer
 This project is created for portfolio and learning purposes. Any datasets used have been anonymized or are intended solely for demonstration purposes.
