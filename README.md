@@ -36,7 +36,7 @@ The main objectives of this project are:
 ## Files
 - Power BI file (.pbix)
 - Dataset (.xlsx)
-- Dashboard screenshots (.png)
+- Dashboard report (.pdf)
 
 ## Disclaimer
 This project is created for portfolio and learning purposes. Any datasets used have been anonymized or are intended solely for demonstration purposes.
