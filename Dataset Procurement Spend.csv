@@ -1,0 +1,1004 @@
+PO_Number,PO_Date,By_Day,By_Month,By_Year,Vendor,Buyer_Department,Purchase_Description,PO_Amount  ,PO_Range
+PO-200246,1/1/2024,1,Jan,2024,Vendor_12,Entertainment,Corporate hospitality,"10,374.91",6k-20k
+PO-200428,1/1/2024,1,Jan,2024,Vendor_2,Marketing,Market research services,"68,271.49",51k-100k
+PO-200013,2/1/2024,2,Jan,2024,Vendor_5,Marketing,Brand promotion services,"44,813.50",21k-50k
+PO-200389,2/1/2024,2,Jan,2024,Vendor_7,Travel,Corporate travel package,"11,412.38",6k-20k
+PO-200323,3/1/2024,3,Jan,2024,Vendor_7,Travel,Flight bookings,"4,387.77",2k-5k
+PO-200878,4/1/2024,4,Jan,2024,Vendor_9,Travel,Corporate travel package,"5,526.03",6k-20k
+PO-200837,5/1/2024,5,Jan,2024,Vendor_1,Travel,Hotel accommodation,"170,415.45",>101k
+PO-200205,6/1/2024,6,Jan,2024,Vendor_5,Marketing,Market research services,"59,876.50",51k-100k
+PO-200271,7/1/2024,7,Jan,2024,Vendor_2,Entertainment,Team engagement event,"111,838.41",>101k
+PO-200396,7/1/2024,7,Jan,2024,Vendor_11,Entertainment,Team engagement event,"10,148.25",6k-20k
+PO-200506,7/1/2024,7,Jan,2024,Vendor_7,Travel,Hotel accommodation,"10,059.25",6k-20k
+PO-200435,8/1/2024,8,Jan,2024,Vendor_2,Entertainment,Corporate hospitality,"177,263.83",>101k
+PO-200852,8/1/2024,8,Jan,2024,Vendor_15,Entertainment,Conference entertainment services,"3,616.71",2k-5k
+PO-200572,10/1/2024,10,Jan,2024,Vendor_2,Entertainment,Corporate hospitality,"92,645.70",51k-100k
+PO-200399,12/1/2024,12,Jan,2024,Vendor_2,Entertainment,Team engagement event,"175,972.25",>101k
+PO-200784,14/1/2024,14,Jan,2024,Vendor_8,Travel,Corporate travel package,"8,370.91",6k-20k
+PO-200839,15/1/2024,15,Jan,2024,Vendor_5,Marketing,Brand promotion services,"38,834.69",21k-50k
+PO-200641,16/1/2024,16,Jan,2024,Vendor_13,Entertainment,Conference entertainment services,"9,397.30",6k-20k
+PO-200260,18/1/2024,18,Jan,2024,Vendor_4,Marketing,Market research services,"40,417.85",21k-50k
+PO-200576,20/1/2024,20,Jan,2024,Vendor_1,Marketing,Brand promotion services,"181,388.22",>101k
+PO-200581,20/1/2024,20,Jan,2024,Vendor_1,Travel,Corporate travel package,"89,011.08",51k-100k
+PO-200750,20/1/2024,20,Jan,2024,Vendor_7,Travel,Flight bookings,"9,942.11",6k-20k
+PO-200457,21/1/2024,21,Jan,2024,Vendor_10,Travel,Corporate travel package,"11,555.24",6k-20k
+PO-200762,22/1/2024,22,Jan,2024,Vendor_14,Entertainment,Conference entertainment services,"9,625.96",6k-20k
+PO-200208,26/1/2024,26,Jan,2024,Vendor_14,Entertainment,Team engagement event,"7,350.37",6k-20k
+PO-200628,26/1/2024,26,Jan,2024,Vendor_3,Travel,Corporate travel package,"59,324.53",51k-100k
+PO-200832,26/1/2024,26,Jan,2024,Vendor_10,Travel,Business travel expenses,"3,408.03",2k-5k
+PO-200809,28/1/2024,28,Jan,2024,Vendor_14,Entertainment,Conference entertainment services,"9,385.97",6k-20k
+PO-200291,29/1/2024,29,Jan,2024,Vendor_2,Marketing,Market research services,"183,357.75",>101k
+PO-200918,29/1/2024,29,Jan,2024,Vendor_11,Entertainment,Client entertainment event,"3,013.73",2k-5k
+PO-200024,2/2/2024,2,Feb,2024,Vendor_14,Entertainment,Client entertainment event,"8,232.98",6k-20k
+PO-200364,2/2/2024,2,Feb,2024,Vendor_2,Marketing,Market research services,"63,933.91",51k-100k
+PO-200821,2/2/2024,2,Feb,2024,Vendor_3,Entertainment,Conference entertainment services,"28,198.89",21k-50k
+PO-200082,5/2/2024,5,Feb,2024,Vendor_14,Entertainment,Corporate hospitality,"2,051.85",2k-5k
+PO-200884,7/2/2024,7,Feb,2024,Vendor_13,Entertainment,Corporate hospitality,"9,293.45",6k-20k
+PO-200080,8/2/2024,8,Feb,2024,Vendor_9,Travel,Business travel expenses,"9,089.11",6k-20k
+PO-200137,8/2/2024,8,Feb,2024,Vendor_9,Travel,Hotel accommodation,"11,063.54",6k-20k
+PO-200299,8/2/2024,8,Feb,2024,Vendor_9,Travel,Corporate travel package,"6,348.27",6k-20k
+PO-200319,8/2/2024,8,Feb,2024,Vendor_2,Entertainment,Conference entertainment services,"209,214.39",>101k
+PO-200432,8/2/2024,8,Feb,2024,Vendor_14,Entertainment,Corporate hospitality,"11,730.98",6k-20k
+PO-200346,9/2/2024,9,Feb,2024,Vendor_12,Entertainment,Conference entertainment services,"8,621.12",6k-20k
+PO-200637,9/2/2024,9,Feb,2024,Vendor_4,Marketing,Social media marketing,"27,460.70",21k-50k
+PO-200023,10/2/2024,10,Feb,2024,Vendor_10,Travel,Flight bookings,"11,263.01",6k-20k
+PO-200301,13/2/2024,13,Feb,2024,Vendor_3,Entertainment,Conference entertainment services,"31,243.83",21k-50k
+PO-200973,14/2/2024,14,Feb,2024,Vendor_9,Travel,Business travel expenses,"6,893.76",6k-20k
+PO-200387,15/2/2024,15,Feb,2024,Vendor_10,Travel,Flight bookings,"4,420.45",2k-5k
+PO-200936,15/2/2024,15,Feb,2024,Vendor_15,Entertainment,Conference entertainment services,"9,257.26",6k-20k
+PO-200235,16/2/2024,16,Feb,2024,Vendor_6,Marketing,Market research services,"3,499.17",2k-5k
+PO-200307,16/2/2024,16,Feb,2024,Vendor_9,Travel,Flight bookings,"11,440.59",6k-20k
+PO-200592,16/2/2024,16,Feb,2024,Vendor_2,Entertainment,Conference entertainment services,"139,386.62",>101k
+PO-200186,17/2/2024,17,Feb,2024,Vendor_9,Travel,Corporate travel package,"10,735.79",6k-20k
+PO-200243,20/2/2024,20,Feb,2024,Vendor_2,Travel,Hotel accommodation,"71,027.45",51k-100k
+PO-200018,22/2/2024,22,Feb,2024,Vendor_12,Entertainment,Client entertainment event,"4,713.49",2k-5k
+PO-200045,22/2/2024,22,Feb,2024,Vendor_13,Entertainment,Team engagement event,"8,807.05",6k-20k
+PO-200088,22/2/2024,22,Feb,2024,Vendor_7,Travel,Flight bookings,"7,222.43",6k-20k
+PO-200087,23/2/2024,23,Feb,2024,Vendor_1,Travel,Hotel accommodation,"191,616.09",>101k
+PO-200167,23/2/2024,23,Feb,2024,Vendor_10,Travel,Business travel expenses,"5,077.77",6k-20k
+PO-200812,23/2/2024,23,Feb,2024,Vendor_1,Marketing,Digital advertising campaign,"191,729.51",>101k
+PO-200493,24/2/2024,24,Feb,2024,Vendor_2,Entertainment,Corporate hospitality,"127,630.26",>101k
+PO-200583,24/2/2024,24,Feb,2024,Vendor_10,Travel,Flight bookings,"7,799.84",6k-20k
+PO-200765,26/2/2024,26,Feb,2024,Vendor_4,Marketing,Social media marketing,"24,481.72",21k-50k
+PO-200092,27/2/2024,27,Feb,2024,Vendor_11,Entertainment,Team engagement event,"6,335.21",6k-20k
+PO-200094,27/2/2024,27,Feb,2024,Vendor_5,Marketing,Market research services,"33,402.88",21k-50k
+PO-200488,27/2/2024,27,Feb,2024,Vendor_9,Travel,Hotel accommodation,"4,308.29",2k-5k
+PO-200736,28/2/2024,28,Feb,2024,Vendor_12,Entertainment,Client entertainment event,"2,882.02",2k-5k
+PO-200786,28/2/2024,28,Feb,2024,Vendor_3,Entertainment,Team engagement event,"20,397.92",21k-50k
+PO-200375,29/2/2024,29,Feb,2024,Vendor_12,Entertainment,Conference entertainment services,"7,432.33",6k-20k
+PO-200585,29/2/2024,29,Feb,2024,Vendor_8,Travel,Business travel expenses,"4,698.21",2k-5k
+PO-200329,2/3/2024,2,Mar,2024,Vendor_13,Entertainment,Corporate hospitality,"8,007.98",6k-20k
+PO-200021,3/3/2024,3,Mar,2024,Vendor_10,Travel,Corporate travel package,"4,934.88",2k-5k
+PO-200573,6/3/2024,6,Mar,2024,Vendor_10,Travel,Hotel accommodation,"8,159.85",6k-20k
+PO-200656,6/3/2024,6,Mar,2024,Vendor_3,Travel,Corporate travel package,"48,268.26",21k-50k
+PO-200196,7/3/2024,7,Mar,2024,Vendor_4,Marketing,Digital advertising campaign,"45,559.60",21k-50k
+PO-200175,9/3/2024,9,Mar,2024,Vendor_2,Marketing,Brand promotion services,"183,026.84",>101k
+PO-200913,9/3/2024,9,Mar,2024,Vendor_8,Travel,Flight bookings,"6,305.40",6k-20k
+PO-200135,10/3/2024,10,Mar,2024,Vendor_13,Entertainment,Client entertainment event,"9,533.78",6k-20k
+PO-200577,10/3/2024,10,Mar,2024,Vendor_4,Marketing,Social media marketing,"52,888.67",51k-100k
+PO-200000,12/3/2024,12,Mar,2024,Vendor_4,Marketing,Digital advertising campaign,"23,254.57",21k-50k
+PO-200598,14/3/2024,14,Mar,2024,Vendor_12,Entertainment,Client entertainment event,"6,809.06",6k-20k
+PO-200283,15/3/2024,15,Mar,2024,Vendor_13,Entertainment,Corporate hospitality,"4,723.07",2k-5k
+PO-200593,15/3/2024,15,Mar,2024,Vendor_2,Entertainment,Team engagement event,"194,368.37",>101k
+PO-200721,15/3/2024,15,Mar,2024,Vendor_14,Entertainment,Team engagement event,"2,988.74",2k-5k
+PO-200970,16/3/2024,16,Mar,2024,Vendor_12,Entertainment,Corporate hospitality,"10,843.77",6k-20k
+PO-200189,18/3/2024,18,Mar,2024,Vendor_14,Entertainment,Corporate hospitality,"8,182.55",6k-20k
+PO-200521,20/3/2024,20,Mar,2024,Vendor_2,Entertainment,Corporate hospitality,"76,167.33",51k-100k
+PO-200273,22/3/2024,22,Mar,2024,Vendor_2,Travel,Corporate travel package,"162,868.09",>101k
+PO-200353,22/3/2024,22,Mar,2024,Vendor_2,Travel,Flight bookings,"178,961.32",>101k
+PO-200935,23/3/2024,23,Mar,2024,Vendor_8,Travel,Flight bookings,"7,419.90",6k-20k
+PO-200255,24/3/2024,24,Mar,2024,Vendor_2,Entertainment,Client entertainment event,"142,427.79",>101k
+PO-200371,24/3/2024,24,Mar,2024,Vendor_10,Travel,Business travel expenses,"6,197.27",6k-20k
+PO-200497,24/3/2024,24,Mar,2024,Vendor_7,Travel,Flight bookings,"8,715.58",6k-20k
+PO-200622,26/3/2024,26,Mar,2024,Vendor_12,Entertainment,Team engagement event,"8,509.73",6k-20k
+PO-200264,27/3/2024,27,Mar,2024,Vendor_3,Travel,Hotel accommodation,"38,696.03",21k-50k
+PO-200673,29/3/2024,29,Mar,2024,Vendor_3,Entertainment,Client entertainment event,"36,094.56",21k-50k
+PO-200391,30/3/2024,30,Mar,2024,Vendor_1,Travel,Business travel expenses,"81,234.52",51k-100k
+PO-200514,1/4/2024,1,Apr,2024,Vendor_1,Travel,Corporate travel package,"79,525.61",51k-100k
+PO-200955,1/4/2024,1,Apr,2024,Vendor_7,Travel,Business travel expenses,"11,362.81",6k-20k
+PO-200180,2/4/2024,2,Apr,2024,Vendor_5,Marketing,Market research services,"36,328.27",21k-50k
+PO-200983,2/4/2024,2,Apr,2024,Vendor_5,Marketing,Brand promotion services,"40,893.42",21k-50k
+PO-200236,4/4/2024,4,Apr,2024,Vendor_5,Marketing,Digital advertising campaign,"47,401.64",21k-50k
+PO-200030,5/4/2024,5,Apr,2024,Vendor_1,Marketing,Digital advertising campaign,"110,296.96",>101k
+PO-200621,7/4/2024,7,Apr,2024,Vendor_14,Entertainment,Conference entertainment services,"4,160.90",2k-5k
+PO-200025,8/4/2024,8,Apr,2024,Vendor_1,Marketing,Brand promotion services,"112,029.33",>101k
+PO-200072,8/4/2024,8,Apr,2024,Vendor_6,Marketing,Brand promotion services,"11,148.64",6k-20k
+PO-200159,8/4/2024,8,Apr,2024,Vendor_7,Travel,Flight bookings,"6,686.93",6k-20k
+PO-200334,8/4/2024,8,Apr,2024,Vendor_1,Marketing,Social media marketing,"201,405.74",>101k
+PO-200103,9/4/2024,9,Apr,2024,Vendor_5,Marketing,Brand promotion services,"57,711.56",51k-100k
+PO-200805,9/4/2024,9,Apr,2024,Vendor_10,Travel,Hotel accommodation,"7,520.69",6k-20k
+PO-200807,9/4/2024,9,Apr,2024,Vendor_6,Marketing,Market research services,"8,477.13",6k-20k
+PO-200451,11/4/2024,11,Apr,2024,Vendor_8,Travel,Corporate travel package,"5,732.52",6k-20k
+PO-200643,11/4/2024,11,Apr,2024,Vendor_10,Travel,Hotel accommodation,"3,659.55",2k-5k
+PO-200893,11/4/2024,11,Apr,2024,Vendor_3,Travel,Business travel expenses,"49,155.24",21k-50k
+PO-200079,13/4/2024,13,Apr,2024,Vendor_7,Travel,Hotel accommodation,"5,225.51",6k-20k
+PO-200571,13/4/2024,13,Apr,2024,Vendor_10,Travel,Business travel expenses,"11,918.10",6k-20k
+PO-200895,13/4/2024,13,Apr,2024,Vendor_15,Entertainment,Team engagement event,"10,275.06",6k-20k
+PO-200392,15/4/2024,15,Apr,2024,Vendor_9,Travel,Hotel accommodation,"10,214.41",6k-20k
+PO-200475,17/4/2024,17,Apr,2024,Vendor_8,Travel,Business travel expenses,"4,352.36",2k-5k
+PO-200702,18/4/2024,18,Apr,2024,Vendor_10,Travel,Corporate travel package,"11,076.11",6k-20k
+PO-200870,18/4/2024,18,Apr,2024,Vendor_7,Travel,Hotel accommodation,"10,396.60",6k-20k
+PO-200873,18/4/2024,18,Apr,2024,Vendor_6,Marketing,Social media marketing,"7,445.06",6k-20k
+PO-200900,18/4/2024,18,Apr,2024,Vendor_9,Travel,Corporate travel package,"8,710.55",6k-20k
+PO-200177,20/4/2024,20,Apr,2024,Vendor_8,Travel,Corporate travel package,"5,415.63",6k-20k
+PO-200197,20/4/2024,20,Apr,2024,Vendor_9,Travel,Hotel accommodation,"2,869.20",2k-5k
+PO-200743,20/4/2024,20,Apr,2024,Vendor_2,Travel,Corporate travel package,"219,954.21",>101k
+PO-200942,20/4/2024,20,Apr,2024,Vendor_2,Travel,Flight bookings,"190,939.13",>101k
+PO-200874,21/4/2024,21,Apr,2024,Vendor_8,Travel,Flight bookings,"4,956.95",2k-5k
+PO-200043,22/4/2024,22,Apr,2024,Vendor_3,Travel,Corporate travel package,"16,659.91",6k-20k
+PO-200210,22/4/2024,22,Apr,2024,Vendor_9,Travel,Corporate travel package,"7,076.10",6k-20k
+PO-200355,22/4/2024,22,Apr,2024,Vendor_1,Travel,Flight bookings,"158,708.31",>101k
+PO-200911,22/4/2024,22,Apr,2024,Vendor_1,Travel,Corporate travel package,"68,293.73",51k-100k
+PO-200113,24/4/2024,24,Apr,2024,Vendor_12,Entertainment,Corporate hospitality,"5,406.25",6k-20k
+PO-200345,24/4/2024,24,Apr,2024,Vendor_1,Marketing,Market research services,"142,572.64",>101k
+PO-200074,25/4/2024,25,Apr,2024,Vendor_7,Travel,Business travel expenses,"11,636.20",6k-20k
+PO-200141,26/4/2024,26,Apr,2024,Vendor_5,Marketing,Market research services,"27,857.04",21k-50k
+PO-200587,26/4/2024,26,Apr,2024,Vendor_9,Travel,Corporate travel package,"9,848.97",6k-20k
+PO-200209,27/4/2024,27,Apr,2024,Vendor_3,Entertainment,Client entertainment event,"23,416.97",21k-50k
+PO-200722,27/4/2024,27,Apr,2024,Vendor_8,Travel,Hotel accommodation,"5,700.52",6k-20k
+PO-200269,29/4/2024,29,Apr,2024,Vendor_1,Travel,Corporate travel package,"175,562.71",>101k
+PO-200337,29/4/2024,29,Apr,2024,Vendor_13,Entertainment,Team engagement event,"4,244.41",2k-5k
+PO-200537,29/4/2024,29,Apr,2024,Vendor_13,Entertainment,Client entertainment event,"3,021.50",2k-5k
+PO-200185,30/4/2024,30,Apr,2024,Vendor_4,Marketing,Brand promotion services,"50,973.47",51k-100k
+PO-200959,30/4/2024,30,Apr,2024,Vendor_3,Travel,Hotel accommodation,"15,517.16",6k-20k
+PO-200400,1/5/2024,1,May,2024,Vendor_3,Travel,Flight bookings,"54,230.26",51k-100k
+PO-200559,1/5/2024,1,May,2024,Vendor_2,Entertainment,Client entertainment event,"163,329.73",>101k
+PO-200774,2/5/2024,2,May,2024,Vendor_9,Travel,Flight bookings,"11,551.15",6k-20k
+PO-200458,3/5/2024,3,May,2024,Vendor_2,Travel,Corporate travel package,"163,595.95",>101k
+PO-200734,3/5/2024,3,May,2024,Vendor_2,Entertainment,Client entertainment event,"119,263.52",>101k
+PO-200850,4/5/2024,4,May,2024,Vendor_1,Travel,Business travel expenses,"177,139.62",>101k
+PO-200176,5/5/2024,5,May,2024,Vendor_15,Entertainment,Client entertainment event,"5,474.13",6k-20k
+PO-200431,5/5/2024,5,May,2024,Vendor_15,Entertainment,Conference entertainment services,"8,859.68",6k-20k
+PO-200242,6/5/2024,6,May,2024,Vendor_14,Entertainment,Client entertainment event,"11,224.99",6k-20k
+PO-200279,7/5/2024,7,May,2024,Vendor_7,Travel,Business travel expenses,"10,945.52",6k-20k
+PO-200570,8/5/2024,8,May,2024,Vendor_2,Entertainment,Corporate hospitality,"61,493.06",51k-100k
+PO-200516,9/5/2024,9,May,2024,Vendor_8,Travel,Flight bookings,"2,176.88",2k-5k
+PO-200422,12/5/2024,12,May,2024,Vendor_4,Marketing,Brand promotion services,"21,559.05",21k-50k
+PO-200928,13/5/2024,13,May,2024,Vendor_7,Travel,Flight bookings,"2,151.11",2k-5k
+PO-200968,16/5/2024,16,May,2024,Vendor_14,Entertainment,Client entertainment event,"5,186.09",6k-20k
+PO-200980,16/5/2024,16,May,2024,Vendor_15,Entertainment,Conference entertainment services,"11,862.47",6k-20k
+PO-200956,18/5/2024,18,May,2024,Vendor_5,Marketing,Social media marketing,"28,157.24",21k-50k
+PO-200994,18/5/2024,18,May,2024,Vendor_12,Entertainment,Client entertainment event,"6,843.44",6k-20k
+PO-200912,19/5/2024,19,May,2024,Vendor_1,Marketing,Social media marketing,"90,628.43",51k-100k
+PO-200664,21/5/2024,21,May,2024,Vendor_2,Entertainment,Conference entertainment services,"120,720.46",>101k
+PO-200145,22/5/2024,22,May,2024,Vendor_1,Marketing,Digital advertising campaign,"94,689.46",51k-100k
+PO-200830,22/5/2024,22,May,2024,Vendor_7,Travel,Corporate travel package,"7,444.82",6k-20k
+PO-200049,23/5/2024,23,May,2024,Vendor_8,Travel,Business travel expenses,"10,164.32",6k-20k
+PO-300049,23/5/2024,23,May,2024,Vendor_8,Marketing,Team engagement event,"120,008.99",>101k
+PO-200462,23/5/2024,23,May,2024,Vendor_3,Travel,Corporate travel package,"39,262.26",21k-50k
+PO-200195,24/5/2024,24,May,2024,Vendor_2,Entertainment,Corporate hospitality,"79,161.94",51k-100k
+PO-200417,24/5/2024,24,May,2024,Vendor_8,Travel,Corporate travel package,"7,929.51",6k-20k
+PO-200589,25/5/2024,25,May,2024,Vendor_2,Travel,Flight bookings,"129,443.10",>101k
+PO-200272,26/5/2024,26,May,2024,Vendor_8,Travel,Flight bookings,"4,078.86",2k-5k
+PO-200520,28/5/2024,28,May,2024,Vendor_15,Entertainment,Team engagement event,"3,706.65",2k-5k
+PO-200408,31/5/2024,31,May,2024,Vendor_10,Travel,Hotel accommodation,"11,876.50",6k-20k
+PO-200285,1/6/2024,1,Jun,2024,Vendor_6,Marketing,Brand promotion services,"7,541.78",6k-20k
+PO-200704,1/6/2024,1,Jun,2024,Vendor_14,Entertainment,Corporate hospitality,"9,213.93",6k-20k
+PO-200965,1/6/2024,1,Jun,2024,Vendor_10,Travel,Hotel accommodation,"10,285.56",6k-20k
+PO-200789,2/6/2024,2,Jun,2024,Vendor_5,Marketing,Digital advertising campaign,"15,006.06",6k-20k
+PO-200849,2/6/2024,2,Jun,2024,Vendor_8,Travel,Business travel expenses,"4,139.57",2k-5k
+PO-200871,2/6/2024,2,Jun,2024,Vendor_4,Marketing,Social media marketing,"55,669.09",51k-100k
+PO-200731,3/6/2024,3,Jun,2024,Vendor_7,Travel,Flight bookings,"5,842.07",6k-20k
+PO-200651,4/6/2024,4,Jun,2024,Vendor_4,Marketing,Brand promotion services,"25,995.30",21k-50k
+PO-200233,7/6/2024,7,Jun,2024,Vendor_10,Travel,Hotel accommodation,"10,212.57",6k-20k
+PO-200406,7/6/2024,7,Jun,2024,Vendor_3,Entertainment,Client entertainment event,"54,072.26",51k-100k
+PO-200465,7/6/2024,7,Jun,2024,Vendor_9,Travel,Hotel accommodation,"9,997.81",6k-20k
+PO-200032,8/6/2024,8,Jun,2024,Vendor_7,Travel,Flight bookings,"4,287.98",2k-5k
+PO-200477,8/6/2024,8,Jun,2024,Vendor_1,Marketing,Social media marketing,"157,135.05",>101k
+PO-200429,9/6/2024,9,Jun,2024,Vendor_2,Entertainment,Client entertainment event,"209,420.00",>101k
+PO-200373,10/6/2024,10,Jun,2024,Vendor_5,Marketing,Market research services,"47,599.02",21k-50k
+PO-200584,10/6/2024,10,Jun,2024,Vendor_9,Travel,Corporate travel package,"8,034.88",6k-20k
+PO-200418,11/6/2024,11,Jun,2024,Vendor_5,Marketing,Digital advertising campaign,"32,957.07",21k-50k
+PO-200604,11/6/2024,11,Jun,2024,Vendor_1,Travel,Hotel accommodation,"101,872.91",>101k
+PO-200877,12/6/2024,12,Jun,2024,Vendor_1,Marketing,Market research services,"67,622.60",51k-100k
+PO-200270,13/6/2024,13,Jun,2024,Vendor_11,Entertainment,Conference entertainment services,"5,971.84",6k-20k
+PO-200612,13/6/2024,13,Jun,2024,Vendor_5,Marketing,Market research services,"43,099.15",21k-50k
+PO-200806,14/6/2024,14,Jun,2024,Vendor_12,Entertainment,Conference entertainment services,"5,711.62",6k-20k
+PO-200009,15/6/2024,15,Jun,2024,Vendor_1,Marketing,Social media marketing,"87,283.86",51k-100k
+PO-200473,15/6/2024,15,Jun,2024,Vendor_3,Entertainment,Team engagement event,"53,302.84",51k-100k
+PO-200287,16/6/2024,16,Jun,2024,Vendor_2,Marketing,Social media marketing,"199,822.41",>101k
+PO-200904,16/6/2024,16,Jun,2024,Vendor_1,Travel,Business travel expenses,"140,174.06",>101k
+PO-200340,18/6/2024,18,Jun,2024,Vendor_13,Entertainment,Client entertainment event,"10,521.94",6k-20k
+PO-200489,20/6/2024,20,Jun,2024,Vendor_4,Marketing,Brand promotion services,"17,355.25",6k-20k
+PO-200558,20/6/2024,20,Jun,2024,Vendor_14,Entertainment,Corporate hospitality,"11,283.18",6k-20k
+PO-200720,20/6/2024,20,Jun,2024,Vendor_3,Entertainment,Team engagement event,"35,255.55",21k-50k
+PO-200142,21/6/2024,21,Jun,2024,Vendor_15,Entertainment,Conference entertainment services,"11,779.01",6k-20k
+PO-200531,21/6/2024,21,Jun,2024,Vendor_8,Travel,Flight bookings,"10,015.37",6k-20k
+PO-200541,21/6/2024,21,Jun,2024,Vendor_13,Entertainment,Conference entertainment services,"4,269.65",2k-5k
+PO-200859,21/6/2024,21,Jun,2024,Vendor_3,Travel,Business travel expenses,"55,258.93",51k-100k
+PO-200437,23/6/2024,23,Jun,2024,Vendor_5,Marketing,Digital advertising campaign,"58,350.61",51k-100k
+PO-200157,25/6/2024,25,Jun,2024,Vendor_10,Travel,Hotel accommodation,"11,872.76",6k-20k
+PO-200615,26/6/2024,26,Jun,2024,Vendor_15,Entertainment,Client entertainment event,"3,140.96",2k-5k
+PO-200631,26/6/2024,26,Jun,2024,Vendor_1,Travel,Business travel expenses,"191,536.51",>101k
+PO-200252,27/6/2024,27,Jun,2024,Vendor_8,Travel,Business travel expenses,"6,524.40",6k-20k
+PO-200910,27/6/2024,27,Jun,2024,Vendor_7,Travel,Corporate travel package,"11,819.06",6k-20k
+PO-200501,28/6/2024,28,Jun,2024,Vendor_1,Marketing,Digital advertising campaign,"148,608.36",>101k
+PO-200880,29/6/2024,29,Jun,2024,Vendor_3,Travel,Flight bookings,"32,632.08",21k-50k
+PO-200136,30/6/2024,30,Jun,2024,Vendor_9,Travel,Business travel expenses,"9,771.47",6k-20k
+PO-200314,1/7/2024,1,Jul,2024,Vendor_6,Marketing,Social media marketing,"8,962.89",6k-20k
+PO-200527,1/7/2024,1,Jul,2024,Vendor_10,Travel,Hotel accommodation,"11,638.22",6k-20k
+PO-200782,1/7/2024,1,Jul,2024,Vendor_9,Travel,Hotel accommodation,"3,878.43",2k-5k
+PO-200313,6/7/2024,6,Jul,2024,Vendor_1,Marketing,Market research services,"96,801.41",51k-100k
+PO-200719,6/7/2024,6,Jul,2024,Vendor_7,Travel,Hotel accommodation,"9,889.85",6k-20k
+PO-200776,6/7/2024,6,Jul,2024,Vendor_12,Entertainment,Conference entertainment services,"9,070.86",6k-20k
+PO-200140,8/7/2024,8,Jul,2024,Vendor_10,Travel,Business travel expenses,"7,833.69",6k-20k
+PO-200694,8/7/2024,8,Jul,2024,Vendor_7,Travel,Hotel accommodation,"10,541.36",6k-20k
+PO-200867,11/7/2024,11,Jul,2024,Vendor_12,Entertainment,Client entertainment event,"2,389.30",2k-5k
+PO-200987,11/7/2024,11,Jul,2024,Vendor_9,Travel,Hotel accommodation,"7,078.05",6k-20k
+PO-200132,12/7/2024,12,Jul,2024,Vendor_3,Travel,Hotel accommodation,"55,135.36",51k-100k
+PO-200764,12/7/2024,12,Jul,2024,Vendor_8,Travel,Flight bookings,"5,587.16",6k-20k
+PO-200981,13/7/2024,13,Jul,2024,Vendor_5,Marketing,Brand promotion services,"54,216.08",51k-100k
+PO-200608,14/7/2024,14,Jul,2024,Vendor_8,Travel,Business travel expenses,"3,392.45",2k-5k
+PO-200542,18/7/2024,18,Jul,2024,Vendor_2,Marketing,Social media marketing,"168,836.44",>101k
+PO-200281,19/7/2024,19,Jul,2024,Vendor_7,Travel,Flight bookings,"6,025.50",6k-20k
+PO-200769,19/7/2024,19,Jul,2024,Vendor_1,Travel,Flight bookings,"191,508.26",>101k
+PO-200015,20/7/2024,20,Jul,2024,Vendor_15,Entertainment,Corporate hospitality,"6,497.54",6k-20k
+PO-200890,20/7/2024,20,Jul,2024,Vendor_5,Marketing,Social media marketing,"39,502.36",21k-50k
+PO-200143,21/7/2024,21,Jul,2024,Vendor_1,Marketing,Market research services,"144,432.18",>101k
+PO-200012,24/7/2024,24,Jul,2024,Vendor_8,Travel,Corporate travel package,"2,343.89",2k-5k
+PO-200028,25/7/2024,25,Jul,2024,Vendor_3,Entertainment,Team engagement event,"16,819.51",6k-20k
+PO-200405,25/7/2024,25,Jul,2024,Vendor_5,Marketing,Digital advertising campaign,"18,248.93",6k-20k
+PO-200662,25/7/2024,25,Jul,2024,Vendor_3,Travel,Business travel expenses,"17,659.23",6k-20k
+PO-200958,25/7/2024,25,Jul,2024,Vendor_5,Marketing,Social media marketing,"37,099.31",21k-50k
+PO-200575,27/7/2024,27,Jul,2024,Vendor_12,Entertainment,Corporate hospitality,"2,353.11",2k-5k
+PO-200841,28/7/2024,28,Jul,2024,Vendor_8,Travel,Hotel accommodation,"10,069.65",6k-20k
+PO-200941,30/7/2024,30,Jul,2024,Vendor_3,Travel,Flight bookings,"45,180.40",21k-50k
+PO-200386,1/8/2024,1,Aug,2024,Vendor_14,Entertainment,Client entertainment event,"2,396.19",2k-5k
+PO-200689,1/8/2024,1,Aug,2024,Vendor_6,Marketing,Social media marketing,"6,069.72",6k-20k
+PO-200001,2/8/2024,2,Aug,2024,Vendor_8,Travel,Business travel expenses,"6,458.33",6k-20k
+PO-200336,3/8/2024,3,Aug,2024,Vendor_7,Travel,Hotel accommodation,"8,960.21",6k-20k
+PO-200347,3/8/2024,3,Aug,2024,Vendor_7,Travel,Flight bookings,"9,339.10",6k-20k
+PO-200505,3/8/2024,3,Aug,2024,Vendor_2,Entertainment,Client entertainment event,"120,899.73",>101k
+PO-200754,3/8/2024,3,Aug,2024,Vendor_6,Marketing,Social media marketing,"4,032.23",2k-5k
+PO-200298,4/8/2024,4,Aug,2024,Vendor_1,Marketing,Market research services,"176,510.20",>101k
+PO-200551,4/8/2024,4,Aug,2024,Vendor_3,Entertainment,Corporate hospitality,"18,116.44",6k-20k
+PO-200027,5/8/2024,5,Aug,2024,Vendor_2,Entertainment,Team engagement event,"181,725.61",>101k
+PO-200332,5/8/2024,5,Aug,2024,Vendor_7,Travel,Hotel accommodation,"2,469.45",2k-5k
+PO-200828,5/8/2024,5,Aug,2024,Vendor_6,Marketing,Market research services,"6,738.10",6k-20k
+PO-200071,7/8/2024,7,Aug,2024,Vendor_10,Travel,Corporate travel package,"3,771.11",2k-5k
+PO-200099,7/8/2024,7,Aug,2024,Vendor_2,Entertainment,Client entertainment event,"114,700.75",>101k
+PO-200138,7/8/2024,7,Aug,2024,Vendor_5,Marketing,Digital advertising campaign,"15,510.91",6k-20k
+PO-200523,8/8/2024,8,Aug,2024,Vendor_3,Travel,Business travel expenses,"24,936.12",21k-50k
+PO-200999,8/8/2024,8,Aug,2024,Vendor_11,Entertainment,Team engagement event,"4,315.48",2k-5k
+PO-200068,13/8/2024,13,Aug,2024,Vendor_6,Marketing,Market research services,"8,311.39",6k-20k
+PO-200579,14/8/2024,14,Aug,2024,Vendor_6,Marketing,Market research services,"9,804.00",6k-20k
+PO-200630,14/8/2024,14,Aug,2024,Vendor_4,Marketing,Market research services,"39,241.58",21k-50k
+PO-200569,16/8/2024,16,Aug,2024,Vendor_1,Travel,Business travel expenses,"200,342.15",>101k
+PO-200817,17/8/2024,17,Aug,2024,Vendor_6,Marketing,Market research services,"2,416.57",2k-5k
+PO-200779,18/8/2024,18,Aug,2024,Vendor_5,Marketing,Social media marketing,"15,991.21",6k-20k
+PO-200539,19/8/2024,19,Aug,2024,Vendor_3,Entertainment,Corporate hospitality,"16,729.19",6k-20k
+PO-200544,19/8/2024,19,Aug,2024,Vendor_1,Marketing,Digital advertising campaign,"141,372.69",>101k
+PO-200058,20/8/2024,20,Aug,2024,Vendor_13,Entertainment,Team engagement event,"3,887.07",2k-5k
+PO-200563,22/8/2024,22,Aug,2024,Vendor_2,Travel,Corporate travel package,"147,204.31",>101k
+PO-200267,26/8/2024,26,Aug,2024,Vendor_6,Marketing,Market research services,"3,041.09",2k-5k
+PO-200530,29/8/2024,29,Aug,2024,Vendor_8,Travel,Flight bookings,"2,121.21",2k-5k
+PO-200331,30/8/2024,30,Aug,2024,Vendor_3,Entertainment,Client entertainment event,"44,234.10",21k-50k
+PO-200984,1/9/2024,1,Sep,2024,Vendor_7,Travel,Flight bookings,"8,966.27",6k-20k
+PO-200046,3/9/2024,3,Sep,2024,Vendor_6,Marketing,Market research services,"7,528.93",6k-20k
+PO-200496,4/9/2024,4,Sep,2024,Vendor_5,Marketing,Market research services,"15,901.19",6k-20k
+PO-200879,4/9/2024,4,Sep,2024,Vendor_2,Marketing,Digital advertising campaign,"146,255.13",>101k
+PO-200940,4/9/2024,4,Sep,2024,Vendor_5,Marketing,Digital advertising campaign,"34,727.32",21k-50k
+PO-200811,8/9/2024,8,Sep,2024,Vendor_6,Marketing,Digital advertising campaign,"10,902.15",6k-20k
+PO-200846,8/9/2024,8,Sep,2024,Vendor_9,Travel,Flight bookings,"3,969.26",2k-5k
+PO-200061,10/9/2024,10,Sep,2024,Vendor_1,Travel,Corporate travel package,"203,768.67",>101k
+PO-200629,10/9/2024,10,Sep,2024,Vendor_7,Travel,Hotel accommodation,"2,652.05",2k-5k
+PO-200856,11/9/2024,11,Sep,2024,Vendor_1,Marketing,Market research services,"208,191.05",>101k
+PO-200075,12/9/2024,12,Sep,2024,Vendor_3,Travel,Corporate travel package,"53,301.15",51k-100k
+PO-200957,12/9/2024,12,Sep,2024,Vendor_8,Travel,Flight bookings,"5,010.46",6k-20k
+PO-200146,15/9/2024,15,Sep,2024,Vendor_6,Marketing,Digital advertising campaign,"8,969.25",6k-20k
+PO-200212,15/9/2024,15,Sep,2024,Vendor_1,Travel,Business travel expenses,"209,122.29",>101k
+PO-200599,16/9/2024,16,Sep,2024,Vendor_14,Entertainment,Conference entertainment services,"3,334.80",2k-5k
+PO-200502,18/9/2024,18,Sep,2024,Vendor_3,Entertainment,Conference entertainment services,"54,300.15",51k-100k
+PO-200055,19/9/2024,19,Sep,2024,Vendor_2,Travel,Hotel accommodation,"171,325.50",>101k
+PO-200464,19/9/2024,19,Sep,2024,Vendor_5,Marketing,Digital advertising campaign,"38,511.65",21k-50k
+PO-200479,19/9/2024,19,Sep,2024,Vendor_1,Marketing,Brand promotion services,"103,926.44",>101k
+PO-200268,20/9/2024,20,Sep,2024,Vendor_7,Travel,Business travel expenses,"8,527.46",6k-20k
+PO-200766,20/9/2024,20,Sep,2024,Vendor_11,Entertainment,Team engagement event,"11,978.21",6k-20k
+PO-200710,22/9/2024,22,Sep,2024,Vendor_9,Travel,Hotel accommodation,"10,880.39",6k-20k
+PO-200866,22/9/2024,22,Sep,2024,Vendor_2,Marketing,Market research services,"76,288.59",51k-100k
+PO-200931,22/9/2024,22,Sep,2024,Vendor_1,Travel,Flight bookings,"78,730.57",51k-100k
+PO-200833,23/9/2024,23,Sep,2024,Vendor_12,Entertainment,Team engagement event,"7,782.98",6k-20k
+PO-200632,24/9/2024,24,Sep,2024,Vendor_1,Marketing,Social media marketing,"91,297.48",51k-100k
+PO-200362,26/9/2024,26,Sep,2024,Vendor_1,Travel,Business travel expenses,"196,386.35",>101k
+PO-200016,27/9/2024,27,Sep,2024,Vendor_13,Entertainment,Corporate hospitality,"9,272.72",6k-20k
+PO-200096,28/9/2024,28,Sep,2024,Vendor_1,Marketing,Market research services,"209,538.24",>101k
+PO-200194,29/9/2024,29,Sep,2024,Vendor_4,Marketing,Brand promotion services,"40,378.43",21k-50k
+PO-200744,29/9/2024,29,Sep,2024,Vendor_11,Entertainment,Conference entertainment services,"6,017.79",6k-20k
+PO-200383,30/9/2024,30,Sep,2024,Vendor_3,Travel,Flight bookings,"15,522.92",6k-20k
+PO-200848,30/9/2024,30,Sep,2024,Vendor_7,Travel,Business travel expenses,"6,589.63",6k-20k
+PO-200947,1/10/2024,1,Oct,2024,Vendor_4,Marketing,Brand promotion services,"51,229.06",51k-100k
+PO-200430,2/10/2024,2,Oct,2024,Vendor_6,Marketing,Brand promotion services,"8,882.08",6k-20k
+PO-200679,2/10/2024,2,Oct,2024,Vendor_7,Travel,Flight bookings,"2,636.41",2k-5k
+PO-200004,3/10/2024,3,Oct,2024,Vendor_14,Entertainment,Corporate hospitality,"3,818.25",2k-5k
+PO-200115,3/10/2024,3,Oct,2024,Vendor_14,Entertainment,Conference entertainment services,"9,350.71",6k-20k
+PO-200469,3/10/2024,3,Oct,2024,Vendor_2,Marketing,Social media marketing,"162,077.63",>101k
+PO-200964,3/10/2024,3,Oct,2024,Vendor_5,Marketing,Brand promotion services,"39,099.92",21k-50k
+PO-200359,4/10/2024,4,Oct,2024,Vendor_8,Travel,Hotel accommodation,"9,536.99",6k-20k
+PO-200447,5/10/2024,5,Oct,2024,Vendor_5,Marketing,Brand promotion services,"49,302.83",21k-50k
+PO-200495,5/10/2024,5,Oct,2024,Vendor_11,Entertainment,Conference entertainment services,"5,825.26",6k-20k
+PO-200716,5/10/2024,5,Oct,2024,Vendor_2,Marketing,Social media marketing,"114,906.78",>101k
+PO-200481,6/10/2024,6,Oct,2024,Vendor_10,Travel,Flight bookings,"2,158.21",2k-5k
+PO-200666,7/10/2024,7,Oct,2024,Vendor_15,Entertainment,Corporate hospitality,"6,790.70",6k-20k
+PO-200985,8/10/2024,8,Oct,2024,Vendor_2,Marketing,Social media marketing,"82,854.71",51k-100k
+PO-200441,13/10/2024,13,Oct,2024,Vendor_9,Travel,Flight bookings,"8,006.10",6k-20k
+PO-200554,14/10/2024,14,Oct,2024,Vendor_8,Travel,Flight bookings,"11,202.97",6k-20k
+PO-200231,15/10/2024,15,Oct,2024,Vendor_4,Marketing,Digital advertising campaign,"50,035.74",51k-100k
+PO-200509,15/10/2024,15,Oct,2024,Vendor_14,Entertainment,Corporate hospitality,"3,325.25",2k-5k
+PO-200723,16/10/2024,16,Oct,2024,Vendor_9,Travel,Flight bookings,"7,258.13",6k-20k
+PO-200787,16/10/2024,16,Oct,2024,Vendor_10,Travel,Hotel accommodation,"6,014.46",6k-20k
+PO-200472,19/10/2024,19,Oct,2024,Vendor_13,Entertainment,Conference entertainment services,"7,566.37",6k-20k
+PO-200223,21/10/2024,21,Oct,2024,Vendor_8,Travel,Hotel accommodation,"10,165.99",6k-20k
+PO-200951,21/10/2024,21,Oct,2024,Vendor_14,Entertainment,Corporate hospitality,"9,997.19",6k-20k
+PO-200017,22/10/2024,22,Oct,2024,Vendor_1,Marketing,Market research services,"67,236.37",51k-100k
+PO-200944,22/10/2024,22,Oct,2024,Vendor_2,Marketing,Social media marketing,"99,609.56",51k-100k
+PO-200633,23/10/2024,23,Oct,2024,Vendor_7,Travel,Corporate travel package,"5,566.71",6k-20k
+PO-200455,26/10/2024,26,Oct,2024,Vendor_5,Marketing,Brand promotion services,"38,698.07",21k-50k
+PO-200934,27/10/2024,27,Oct,2024,Vendor_9,Travel,Corporate travel package,"8,274.87",6k-20k
+PO-200492,29/10/2024,29,Oct,2024,Vendor_15,Entertainment,Client entertainment event,"8,349.60",6k-20k
+PO-200803,29/10/2024,29,Oct,2024,Vendor_5,Marketing,Market research services,"34,472.81",21k-50k
+PO-200802,30/10/2024,30,Oct,2024,Vendor_15,Entertainment,Client entertainment event,"5,600.50",6k-20k
+PO-200946,30/10/2024,30,Oct,2024,Vendor_8,Travel,Corporate travel package,"2,811.49",2k-5k
+PO-200986,31/10/2024,31,Oct,2024,Vendor_7,Travel,Flight bookings,"5,918.59",6k-20k
+PO-200172,3/11/2024,3,Nov,2024,Vendor_7,Travel,Business travel expenses,"11,041.59",6k-20k
+PO-200293,5/11/2024,5,Nov,2024,Vendor_10,Travel,Business travel expenses,"8,104.05",6k-20k
+PO-200908,8/11/2024,8,Nov,2024,Vendor_8,Travel,Hotel accommodation,"10,714.14",6k-20k
+PO-200397,9/11/2024,9,Nov,2024,Vendor_9,Travel,Corporate travel package,"7,475.92",6k-20k
+PO-200653,9/11/2024,9,Nov,2024,Vendor_2,Marketing,Social media marketing,"132,056.16",>101k
+PO-200945,9/11/2024,9,Nov,2024,Vendor_4,Marketing,Brand promotion services,"47,973.01",21k-50k
+PO-200967,9/11/2024,9,Nov,2024,Vendor_4,Marketing,Brand promotion services,"31,808.41",21k-50k
+PO-200200,10/11/2024,10,Nov,2024,Vendor_13,Entertainment,Conference entertainment services,"7,707.78",6k-20k
+PO-200503,11/11/2024,11,Nov,2024,Vendor_14,Entertainment,Team engagement event,"7,745.87",6k-20k
+PO-200039,13/11/2024,13,Nov,2024,Vendor_3,Entertainment,Conference entertainment services,"39,034.02",21k-50k
+PO-200303,13/11/2024,13,Nov,2024,Vendor_9,Travel,Flight bookings,"3,851.33",2k-5k
+PO-200320,13/11/2024,13,Nov,2024,Vendor_1,Marketing,Brand promotion services,"74,166.95",51k-100k
+PO-200395,13/11/2024,13,Nov,2024,Vendor_3,Entertainment,Conference entertainment services,"57,630.77",51k-100k
+PO-200696,13/11/2024,13,Nov,2024,Vendor_6,Marketing,Digital advertising campaign,"7,720.49",6k-20k
+PO-200211,15/11/2024,15,Nov,2024,Vendor_7,Travel,Flight bookings,"8,106.20",6k-20k
+PO-200857,17/11/2024,17,Nov,2024,Vendor_8,Travel,Corporate travel package,"10,080.79",6k-20k
+PO-200920,17/11/2024,17,Nov,2024,Vendor_1,Travel,Flight bookings,"216,336.68",>101k
+PO-200760,18/11/2024,18,Nov,2024,Vendor_13,Entertainment,Team engagement event,"5,118.99",6k-20k
+PO-200324,19/11/2024,19,Nov,2024,Vendor_6,Marketing,Market research services,"4,872.39",2k-5k
+PO-200360,19/11/2024,19,Nov,2024,Vendor_14,Entertainment,Conference entertainment services,"9,708.54",6k-20k
+PO-200445,19/11/2024,19,Nov,2024,Vendor_11,Entertainment,Client entertainment event,"4,886.86",2k-5k
+PO-200706,19/11/2024,19,Nov,2024,Vendor_1,Marketing,Market research services,"169,854.39",>101k
+PO-200791,20/11/2024,20,Nov,2024,Vendor_8,Travel,Corporate travel package,"2,038.20",2k-5k
+PO-200456,21/11/2024,21,Nov,2024,Vendor_6,Marketing,Social media marketing,"9,648.83",6k-20k
+PO-200616,22/11/2024,22,Nov,2024,Vendor_10,Travel,Business travel expenses,"4,509.67",2k-5k
+PO-200669,22/11/2024,22,Nov,2024,Vendor_9,Travel,Corporate travel package,"2,180.07",2k-5k
+PO-200342,23/11/2024,23,Nov,2024,Vendor_1,Travel,Corporate travel package,"119,630.16",>101k
+PO-200147,25/11/2024,25,Nov,2024,Vendor_13,Entertainment,Client entertainment event,"11,152.54",6k-20k
+PO-200302,25/11/2024,25,Nov,2024,Vendor_11,Entertainment,Client entertainment event,"3,368.19",2k-5k
+PO-200700,28/11/2024,28,Nov,2024,Vendor_6,Marketing,Social media marketing,"2,448.54",2k-5k
+PO-200998,28/11/2024,28,Nov,2024,Vendor_1,Marketing,Digital advertising campaign,"71,856.87",51k-100k
+PO-200460,29/11/2024,29,Nov,2024,Vendor_2,Marketing,Brand promotion services,"91,129.33",51k-100k
+PO-200674,29/11/2024,29,Nov,2024,Vendor_12,Entertainment,Client entertainment event,"4,972.38",2k-5k
+PO-200309,30/11/2024,30,Nov,2024,Vendor_7,Travel,Hotel accommodation,"5,128.55",6k-20k
+PO-200410,30/11/2024,30,Nov,2024,Vendor_1,Travel,Corporate travel package,"156,990.19",>101k
+PO-200997,30/11/2024,30,Nov,2024,Vendor_5,Marketing,Digital advertising campaign,"48,438.67",21k-50k
+PO-200510,1/12/2024,1,Dec,2024,Vendor_14,Entertainment,Corporate hospitality,"3,391.98",2k-5k
+PO-200899,2/12/2024,2,Dec,2024,Vendor_4,Marketing,Market research services,"22,079.68",21k-50k
+PO-200053,3/12/2024,3,Dec,2024,Vendor_2,Marketing,Market research services,"121,877.66",>101k
+PO-200062,3/12/2024,3,Dec,2024,Vendor_1,Travel,Flight bookings,"166,160.28",>101k
+PO-200101,6/12/2024,6,Dec,2024,Vendor_6,Marketing,Brand promotion services,"9,633.64",6k-20k
+PO-200286,7/12/2024,7,Dec,2024,Vendor_6,Marketing,Market research services,"4,064.21",2k-5k
+PO-200790,8/12/2024,8,Dec,2024,Vendor_10,Travel,Hotel accommodation,"9,069.76",6k-20k
+PO-200885,8/12/2024,8,Dec,2024,Vendor_10,Travel,Corporate travel package,"9,418.96",6k-20k
+PO-200440,10/12/2024,10,Dec,2024,Vendor_13,Entertainment,Conference entertainment services,"9,685.19",6k-20k
+PO-200183,11/12/2024,11,Dec,2024,Vendor_1,Marketing,Digital advertising campaign,"133,724.60",>101k
+PO-200245,11/12/2024,11,Dec,2024,Vendor_6,Marketing,Brand promotion services,"4,359.06",2k-5k
+PO-200036,13/12/2024,13,Dec,2024,Vendor_13,Entertainment,Conference entertainment services,"10,074.40",6k-20k
+PO-200165,13/12/2024,13,Dec,2024,Vendor_13,Entertainment,Conference entertainment services,"8,181.28",6k-20k
+PO-200686,13/12/2024,13,Dec,2024,Vendor_9,Travel,Corporate travel package,"8,764.26",6k-20k
+PO-200219,14/12/2024,14,Dec,2024,Vendor_14,Entertainment,Conference entertainment services,"7,744.73",6k-20k
+PO-200265,14/12/2024,14,Dec,2024,Vendor_15,Entertainment,Conference entertainment services,"9,159.72",6k-20k
+PO-200713,15/12/2024,15,Dec,2024,Vendor_13,Entertainment,Corporate hospitality,"10,290.18",6k-20k
+PO-200547,17/12/2024,17,Dec,2024,Vendor_2,Marketing,Digital advertising campaign,"165,648.44",>101k
+PO-200084,19/12/2024,19,Dec,2024,Vendor_1,Marketing,Social media marketing,"64,418.68",51k-100k
+PO-200982,19/12/2024,19,Dec,2024,Vendor_9,Travel,Business travel expenses,"9,535.95",6k-20k
+PO-200772,20/12/2024,20,Dec,2024,Vendor_9,Travel,Business travel expenses,"2,660.10",2k-5k
+PO-200241,21/12/2024,21,Dec,2024,Vendor_10,Travel,Business travel expenses,"11,321.18",6k-20k
+PO-200284,21/12/2024,21,Dec,2024,Vendor_12,Entertainment,Conference entertainment services,"3,177.51",2k-5k
+PO-200102,22/12/2024,22,Dec,2024,Vendor_6,Marketing,Digital advertising campaign,"6,646.74",6k-20k
+PO-200338,22/12/2024,22,Dec,2024,Vendor_10,Travel,Flight bookings,"7,929.40",6k-20k
+PO-200715,22/12/2024,22,Dec,2024,Vendor_6,Marketing,Social media marketing,"7,772.00",6k-20k
+PO-200322,24/12/2024,24,Dec,2024,Vendor_15,Entertainment,Corporate hospitality,"2,916.99",2k-5k
+PO-200549,25/12/2024,25,Dec,2024,Vendor_15,Entertainment,Team engagement event,"9,824.85",6k-20k
+PO-200139,26/12/2024,26,Dec,2024,Vendor_7,Travel,Corporate travel package,"3,188.18",2k-5k
+PO-200442,26/12/2024,26,Dec,2024,Vendor_9,Travel,Flight bookings,"8,669.72",6k-20k
+PO-200500,26/12/2024,26,Dec,2024,Vendor_2,Travel,Hotel accommodation,"114,667.92",>101k
+PO-200688,26/12/2024,26,Dec,2024,Vendor_14,Entertainment,Corporate hospitality,"6,728.97",6k-20k
+PO-200468,27/12/2024,27,Dec,2024,Vendor_11,Entertainment,Conference entertainment services,"2,434.13",2k-5k
+PO-200239,28/12/2024,28,Dec,2024,Vendor_3,Travel,Business travel expenses,"27,956.83",21k-50k
+PO-200290,28/12/2024,28,Dec,2024,Vendor_5,Marketing,Brand promotion services,"22,482.75",21k-50k
+PO-200067,30/12/2024,30,Dec,2024,Vendor_3,Entertainment,Corporate hospitality,"58,785.47",51k-100k
+PO-200927,1/1/2025,1,Jan,2025,Vendor_1,Travel,Business travel expenses,"159,783.80",>101k
+PO-200548,2/1/2025,2,Jan,2025,Vendor_1,Travel,Hotel accommodation,"73,218.83",51k-100k
+PO-200198,3/1/2025,3,Jan,2025,Vendor_10,Travel,Business travel expenses,"9,454.39",6k-20k
+PO-200937,4/1/2025,4,Jan,2025,Vendor_2,Entertainment,Conference entertainment services,"166,399.12",>101k
+PO-200311,6/1/2025,6,Jan,2025,Vendor_5,Marketing,Digital advertising campaign,"36,339.64",21k-50k
+PO-200647,6/1/2025,6,Jan,2025,Vendor_15,Entertainment,Conference entertainment services,"10,581.77",6k-20k
+PO-200040,8/1/2025,8,Jan,2025,Vendor_2,Travel,Hotel accommodation,"114,018.43",>101k
+PO-200178,8/1/2025,8,Jan,2025,Vendor_2,Travel,Corporate travel package,"84,304.43",51k-100k
+PO-200670,9/1/2025,9,Jan,2025,Vendor_8,Travel,Flight bookings,"5,047.51",6k-20k
+PO-200718,9/1/2025,9,Jan,2025,Vendor_12,Entertainment,Conference entertainment services,"8,729.67",6k-20k
+PO-200775,9/1/2025,9,Jan,2025,Vendor_13,Entertainment,Corporate hospitality,"2,768.62",2k-5k
+PO-200909,9/1/2025,9,Jan,2025,Vendor_11,Entertainment,Team engagement event,"5,128.63",6k-20k
+PO-200217,10/1/2025,10,Jan,2025,Vendor_12,Entertainment,Conference entertainment services,"6,085.18",6k-20k
+PO-200626,10/1/2025,10,Jan,2025,Vendor_10,Travel,Corporate travel package,"7,193.86",6k-20k
+PO-200037,11/1/2025,11,Jan,2025,Vendor_4,Marketing,Brand promotion services,"19,952.34",6k-20k
+PO-200648,11/1/2025,11,Jan,2025,Vendor_14,Entertainment,Corporate hospitality,"9,102.43",6k-20k
+PO-200711,11/1/2025,11,Jan,2025,Vendor_6,Marketing,Social media marketing,"11,132.87",6k-20k
+PO-200378,12/1/2025,12,Jan,2025,Vendor_11,Entertainment,Conference entertainment services,"2,325.26",2k-5k
+PO-200221,13/1/2025,13,Jan,2025,Vendor_12,Entertainment,Client entertainment event,"10,145.75",6k-20k
+PO-200739,13/1/2025,13,Jan,2025,Vendor_7,Travel,Hotel accommodation,"3,683.37",2k-5k
+PO-200019,14/1/2025,14,Jan,2025,Vendor_8,Travel,Flight bookings,"4,809.35",2k-5k
+PO-200518,16/1/2025,16,Jan,2025,Vendor_11,Entertainment,Corporate hospitality,"4,117.55",2k-5k
+PO-200979,16/1/2025,16,Jan,2025,Vendor_1,Travel,Business travel expenses,"97,472.54",51k-100k
+PO-200625,17/1/2025,17,Jan,2025,Vendor_2,Travel,Flight bookings,"86,353.02",51k-100k
+PO-200741,17/1/2025,17,Jan,2025,Vendor_9,Travel,Hotel accommodation,"2,576.48",2k-5k
+PO-200614,18/1/2025,18,Jan,2025,Vendor_2,Marketing,Social media marketing,"109,391.80",>101k
+PO-200771,18/1/2025,18,Jan,2025,Vendor_1,Marketing,Brand promotion services,"72,423.89",51k-100k
+PO-200250,20/1/2025,20,Jan,2025,Vendor_5,Marketing,Brand promotion services,"56,393.50",51k-100k
+PO-200042,21/1/2025,21,Jan,2025,Vendor_3,Entertainment,Corporate hospitality,"46,333.69",21k-50k
+PO-200377,21/1/2025,21,Jan,2025,Vendor_6,Marketing,Brand promotion services,"9,610.24",6k-20k
+PO-200636,21/1/2025,21,Jan,2025,Vendor_7,Travel,Hotel accommodation,"5,167.62",6k-20k
+PO-200966,23/1/2025,23,Jan,2025,Vendor_12,Entertainment,Corporate hospitality,"11,137.88",6k-20k
+PO-200905,24/1/2025,24,Jan,2025,Vendor_1,Marketing,Digital advertising campaign,"174,952.63",>101k
+PO-200341,29/1/2025,29,Jan,2025,Vendor_11,Entertainment,Conference entertainment services,"11,315.89",6k-20k
+PO-200420,29/1/2025,29,Jan,2025,Vendor_2,Marketing,Social media marketing,"132,606.33",>101k
+PO-200532,29/1/2025,29,Jan,2025,Vendor_1,Marketing,Social media marketing,"102,536.18",>101k
+PO-200749,29/1/2025,29,Jan,2025,Vendor_6,Marketing,Brand promotion services,"3,306.52",2k-5k
+PO-200125,30/1/2025,30,Jan,2025,Vendor_8,Travel,Flight bookings,"2,917.04",2k-5k
+PO-200275,30/1/2025,30,Jan,2025,Vendor_3,Entertainment,Team engagement event,"41,563.27",21k-50k
+PO-200110,31/1/2025,31,Jan,2025,Vendor_9,Travel,Business travel expenses,"3,957.91",2k-5k
+PO-200671,1/2/2025,1,Feb,2025,Vendor_7,Travel,Business travel expenses,"10,727.54",6k-20k
+PO-200814,1/2/2025,1,Feb,2025,Vendor_1,Marketing,Brand promotion services,"113,975.29",>101k
+PO-200083,3/2/2025,3,Feb,2025,Vendor_11,Entertainment,Client entertainment event,"2,709.41",2k-5k
+PO-200605,3/2/2025,3,Feb,2025,Vendor_3,Entertainment,Conference entertainment services,"58,867.56",51k-100k
+PO-200047,4/2/2025,4,Feb,2025,Vendor_9,Travel,Business travel expenses,"5,696.54",6k-20k
+PO-200168,4/2/2025,4,Feb,2025,Vendor_15,Entertainment,Corporate hospitality,"10,766.54",6k-20k
+PO-200051,6/2/2025,6,Feb,2025,Vendor_1,Travel,Corporate travel package,"168,410.30",>101k
+PO-200181,6/2/2025,6,Feb,2025,Vendor_15,Entertainment,Client entertainment event,"3,922.89",2k-5k
+PO-200917,6/2/2025,6,Feb,2025,Vendor_10,Travel,Business travel expenses,"3,989.92",2k-5k
+PO-200059,7/2/2025,7,Feb,2025,Vendor_4,Marketing,Market research services,"53,099.75",51k-100k
+PO-200580,8/2/2025,8,Feb,2025,Vendor_2,Entertainment,Client entertainment event,"60,300.78",51k-100k
+PO-200294,9/2/2025,9,Feb,2025,Vendor_6,Marketing,Social media marketing,"11,540.87",6k-20k
+PO-200586,9/2/2025,9,Feb,2025,Vendor_4,Marketing,Social media marketing,"18,467.62",6k-20k
+PO-200684,9/2/2025,9,Feb,2025,Vendor_8,Travel,Hotel accommodation,"3,648.25",2k-5k
+PO-200663,10/2/2025,10,Feb,2025,Vendor_3,Travel,Hotel accommodation,"45,182.95",21k-50k
+PO-200896,10/2/2025,10,Feb,2025,Vendor_2,Travel,Business travel expenses,"188,562.90",>101k
+PO-200081,11/2/2025,11,Feb,2025,Vendor_3,Travel,Hotel accommodation,"51,455.10",51k-100k
+PO-200148,11/2/2025,11,Feb,2025,Vendor_14,Entertainment,Conference entertainment services,"5,945.22",6k-20k
+PO-200543,11/2/2025,11,Feb,2025,Vendor_1,Marketing,Digital advertising campaign,"71,533.49",51k-100k
+PO-200603,11/2/2025,11,Feb,2025,Vendor_9,Travel,Corporate travel package,"2,134.03",2k-5k
+PO-200785,11/2/2025,11,Feb,2025,Vendor_6,Marketing,Brand promotion services,"10,225.35",6k-20k
+PO-200358,15/2/2025,15,Feb,2025,Vendor_10,Travel,Hotel accommodation,"6,322.41",6k-20k
+PO-200827,15/2/2025,15,Feb,2025,Vendor_1,Marketing,Digital advertising campaign,"99,456.58",51k-100k
+PO-200834,15/2/2025,15,Feb,2025,Vendor_15,Entertainment,Conference entertainment services,"8,359.55",6k-20k
+PO-200568,16/2/2025,16,Feb,2025,Vendor_8,Travel,Hotel accommodation,"7,650.22",6k-20k
+PO-200933,17/2/2025,17,Feb,2025,Vendor_1,Travel,Hotel accommodation,"160,032.76",>101k
+PO-200975,17/2/2025,17,Feb,2025,Vendor_7,Travel,Hotel accommodation,"7,413.70",6k-20k
+PO-200394,19/2/2025,19,Feb,2025,Vendor_1,Travel,Flight bookings,"68,315.41",51k-100k
+PO-200740,19/2/2025,19,Feb,2025,Vendor_12,Entertainment,Team engagement event,"5,023.33",6k-20k
+PO-200989,19/2/2025,19,Feb,2025,Vendor_5,Marketing,Digital advertising campaign,"43,279.19",21k-50k
+PO-200109,20/2/2025,20,Feb,2025,Vendor_11,Entertainment,Conference entertainment services,"5,861.03",6k-20k
+PO-200897,21/2/2025,21,Feb,2025,Vendor_2,Marketing,Brand promotion services,"115,136.65",>101k
+PO-200022,22/2/2025,22,Feb,2025,Vendor_11,Entertainment,Client entertainment event,"9,113.42",6k-20k
+PO-200714,22/2/2025,22,Feb,2025,Vendor_2,Marketing,Digital advertising campaign,"127,525.48",>101k
+PO-200902,22/2/2025,22,Feb,2025,Vendor_2,Entertainment,Client entertainment event,"64,030.95",51k-100k
+PO-200409,23/2/2025,23,Feb,2025,Vendor_7,Travel,Business travel expenses,"7,786.75",6k-20k
+PO-200954,23/2/2025,23,Feb,2025,Vendor_3,Entertainment,Corporate hospitality,"34,242.06",21k-50k
+PO-200820,24/2/2025,24,Feb,2025,Vendor_1,Marketing,Brand promotion services,"118,837.38",>101k
+PO-200855,24/2/2025,24,Feb,2025,Vendor_10,Travel,Hotel accommodation,"8,030.64",6k-20k
+PO-200224,25/2/2025,25,Feb,2025,Vendor_10,Travel,Corporate travel package,"6,626.80",6k-20k
+PO-200529,26/2/2025,26,Feb,2025,Vendor_3,Entertainment,Team engagement event,"21,169.94",21k-50k
+PO-200618,26/2/2025,26,Feb,2025,Vendor_3,Entertainment,Corporate hospitality,"39,414.56",21k-50k
+PO-200682,27/2/2025,27,Feb,2025,Vendor_7,Travel,Flight bookings,"8,944.50",6k-20k
+PO-200692,27/2/2025,27,Feb,2025,Vendor_6,Marketing,Digital advertising campaign,"6,820.41",6k-20k
+PO-200969,28/2/2025,28,Feb,2025,Vendor_1,Marketing,Social media marketing,"115,822.41",>101k
+PO-200352,1/3/2025,1,Mar,2025,Vendor_13,Entertainment,Team engagement event,"10,790.71",6k-20k
+PO-200668,1/3/2025,1,Mar,2025,Vendor_2,Marketing,Social media marketing,"215,644.21",>101k
+PO-200438,2/3/2025,2,Mar,2025,Vendor_9,Travel,Business travel expenses,"11,786.31",6k-20k
+PO-200726,2/3/2025,2,Mar,2025,Vendor_7,Travel,Hotel accommodation,"8,369.02",6k-20k
+PO-200853,2/3/2025,2,Mar,2025,Vendor_10,Travel,Corporate travel package,"4,473.40",2k-5k
+PO-200433,3/3/2025,3,Mar,2025,Vendor_6,Marketing,Social media marketing,"7,217.30",6k-20k
+PO-200843,3/3/2025,3,Mar,2025,Vendor_7,Travel,Hotel accommodation,"6,455.42",6k-20k
+PO-200259,4/3/2025,4,Mar,2025,Vendor_4,Marketing,Brand promotion services,"23,580.95",21k-50k
+PO-200705,6/3/2025,6,Mar,2025,Vendor_8,Travel,Business travel expenses,"9,175.72",6k-20k
+PO-200677,7/3/2025,7,Mar,2025,Vendor_2,Travel,Corporate travel package,"98,321.63",51k-100k
+PO-200300,10/3/2025,10,Mar,2025,Vendor_1,Travel,Flight bookings,"60,374.30",51k-100k
+PO-200995,10/3/2025,10,Mar,2025,Vendor_1,Travel,Flight bookings,"188,566.03",>101k
+PO-200248,11/3/2025,11,Mar,2025,Vendor_5,Marketing,Digital advertising campaign,"30,083.88",21k-50k
+PO-200545,11/3/2025,11,Mar,2025,Vendor_4,Marketing,Brand promotion services,"59,621.48",51k-100k
+PO-200201,12/3/2025,12,Mar,2025,Vendor_15,Entertainment,Client entertainment event,"11,336.92",6k-20k
+PO-200166,13/3/2025,13,Mar,2025,Vendor_3,Travel,Hotel accommodation,"37,417.43",21k-50k
+PO-200717,13/3/2025,13,Mar,2025,Vendor_11,Entertainment,Corporate hospitality,"10,456.04",6k-20k
+PO-200474,14/3/2025,14,Mar,2025,Vendor_9,Travel,Hotel accommodation,"9,666.56",6k-20k
+PO-200925,14/3/2025,14,Mar,2025,Vendor_7,Travel,Hotel accommodation,"11,685.37",6k-20k
+PO-200230,16/3/2025,16,Mar,2025,Vendor_13,Entertainment,Conference entertainment services,"11,976.93",6k-20k
+PO-200104,17/3/2025,17,Mar,2025,Vendor_1,Marketing,Brand promotion services,"160,137.59",>101k
+PO-200282,17/3/2025,17,Mar,2025,Vendor_2,Travel,Hotel accommodation,"217,504.35",>101k
+PO-200491,17/3/2025,17,Mar,2025,Vendor_6,Marketing,Market research services,"7,804.75",6k-20k
+PO-200266,18/3/2025,18,Mar,2025,Vendor_5,Marketing,Digital advertising campaign,"24,988.75",21k-50k
+PO-200730,18/3/2025,18,Mar,2025,Vendor_2,Marketing,Brand promotion services,"64,405.88",51k-100k
+PO-200963,19/3/2025,19,Mar,2025,Vendor_11,Entertainment,Client entertainment event,"5,098.07",6k-20k
+PO-200466,20/3/2025,20,Mar,2025,Vendor_9,Travel,Corporate travel package,"9,934.07",6k-20k
+PO-200680,20/3/2025,20,Mar,2025,Vendor_2,Marketing,Digital advertising campaign,"75,017.17",51k-100k
+PO-200164,21/3/2025,21,Mar,2025,Vendor_2,Travel,Flight bookings,"156,987.94",>101k
+PO-200847,21/3/2025,21,Mar,2025,Vendor_15,Entertainment,Conference entertainment services,"11,530.20",6k-20k
+PO-200515,22/3/2025,22,Mar,2025,Vendor_4,Marketing,Brand promotion services,"54,424.73",51k-100k
+PO-200691,24/3/2025,24,Mar,2025,Vendor_13,Entertainment,Team engagement event,"4,768.14",2k-5k
+PO-200297,25/3/2025,25,Mar,2025,Vendor_8,Travel,Hotel accommodation,"8,233.33",6k-20k
+PO-200317,25/3/2025,25,Mar,2025,Vendor_7,Travel,Flight bookings,"8,158.63",6k-20k
+PO-200453,25/3/2025,25,Mar,2025,Vendor_5,Marketing,Brand promotion services,"57,816.54",51k-100k
+PO-200851,25/3/2025,25,Mar,2025,Vendor_14,Entertainment,Team engagement event,"5,952.06",6k-20k
+PO-200907,27/3/2025,27,Mar,2025,Vendor_2,Entertainment,Client entertainment event,"85,163.71",51k-100k
+PO-200057,28/3/2025,28,Mar,2025,Vendor_3,Travel,Corporate travel package,"58,443.87",51k-100k
+PO-200100,28/3/2025,28,Mar,2025,Vendor_1,Marketing,Brand promotion services,"196,873.69",>101k
+PO-200840,28/3/2025,28,Mar,2025,Vendor_4,Marketing,Brand promotion services,"45,582.91",21k-50k
+PO-200343,29/3/2025,29,Mar,2025,Vendor_9,Travel,Corporate travel package,"6,958.76",6k-20k
+PO-200657,29/3/2025,29,Mar,2025,Vendor_4,Marketing,Market research services,"18,133.85",6k-20k
+PO-200011,30/3/2025,30,Mar,2025,Vendor_1,Travel,Corporate travel package,"98,564.07",51k-100k
+PO-200123,30/3/2025,30,Mar,2025,Vendor_1,Marketing,Social media marketing,"74,605.87",51k-100k
+PO-200448,30/3/2025,30,Mar,2025,Vendor_5,Marketing,Social media marketing,"31,905.25",21k-50k
+PO-200526,30/3/2025,30,Mar,2025,Vendor_4,Marketing,Market research services,"36,673.57",21k-50k
+PO-200804,30/3/2025,30,Mar,2025,Vendor_1,Travel,Hotel accommodation,"183,324.90",>101k
+PO-200961,30/3/2025,30,Mar,2025,Vendor_11,Entertainment,Conference entertainment services,"8,642.19",6k-20k
+PO-200116,1/4/2025,1,Apr,2025,Vendor_15,Entertainment,Conference entertainment services,"3,774.40",2k-5k
+PO-200163,1/4/2025,1,Apr,2025,Vendor_12,Entertainment,Client entertainment event,"4,410.85",2k-5k
+PO-200649,1/4/2025,1,Apr,2025,Vendor_6,Marketing,Social media marketing,"8,516.68",6k-20k
+PO-200824,1/4/2025,1,Apr,2025,Vendor_7,Travel,Corporate travel package,"10,470.61",6k-20k
+PO-200365,3/4/2025,3,Apr,2025,Vendor_4,Marketing,Social media marketing,"51,845.35",51k-100k
+PO-200419,4/4/2025,4,Apr,2025,Vendor_9,Travel,Business travel expenses,"7,884.13",6k-20k
+PO-200661,4/4/2025,4,Apr,2025,Vendor_5,Marketing,Market research services,"57,223.72",51k-100k
+PO-200152,5/4/2025,5,Apr,2025,Vendor_1,Marketing,Digital advertising campaign,"125,793.08",>101k
+PO-200566,5/4/2025,5,Apr,2025,Vendor_6,Marketing,Social media marketing,"10,407.03",6k-20k
+PO-200519,7/4/2025,7,Apr,2025,Vendor_15,Entertainment,Client entertainment event,"8,194.98",6k-20k
+PO-200050,8/4/2025,8,Apr,2025,Vendor_12,Entertainment,Conference entertainment services,"7,081.99",6k-20k
+PO-200672,9/4/2025,9,Apr,2025,Vendor_2,Marketing,Digital advertising campaign,"70,934.55",51k-100k
+PO-200357,11/4/2025,11,Apr,2025,Vendor_1,Marketing,Social media marketing,"80,551.79",51k-100k
+PO-200635,12/4/2025,12,Apr,2025,Vendor_2,Entertainment,Conference entertainment services,"143,230.48",>101k
+PO-200066,14/4/2025,14,Apr,2025,Vendor_7,Travel,Corporate travel package,"7,088.14",6k-20k
+PO-200490,15/4/2025,15,Apr,2025,Vendor_9,Travel,Flight bookings,"11,954.80",6k-20k
+PO-200796,15/4/2025,15,Apr,2025,Vendor_15,Entertainment,Client entertainment event,"3,160.23",2k-5k
+PO-200610,16/4/2025,16,Apr,2025,Vendor_3,Entertainment,Conference entertainment services,"39,674.43",21k-50k
+PO-200054,17/4/2025,17,Apr,2025,Vendor_12,Entertainment,Team engagement event,"5,410.66",6k-20k
+PO-200450,17/4/2025,17,Apr,2025,Vendor_7,Travel,Business travel expenses,"5,885.58",6k-20k
+PO-200901,18/4/2025,18,Apr,2025,Vendor_14,Entertainment,Client entertainment event,"5,119.84",6k-20k
+PO-200875,19/4/2025,19,Apr,2025,Vendor_12,Entertainment,Conference entertainment services,"8,360.42",6k-20k
+PO-200006,20/4/2025,20,Apr,2025,Vendor_1,Marketing,Social media marketing,"123,977.76",>101k
+PO-200160,20/4/2025,20,Apr,2025,Vendor_2,Marketing,Market research services,"72,057.45",51k-100k
+PO-200256,20/4/2025,20,Apr,2025,Vendor_6,Marketing,Market research services,"6,146.24",6k-20k
+PO-200014,21/4/2025,21,Apr,2025,Vendor_5,Marketing,Brand promotion services,"39,601.96",21k-50k
+PO-200229,22/4/2025,22,Apr,2025,Vendor_11,Entertainment,Client entertainment event,"6,954.24",6k-20k
+PO-200681,24/4/2025,24,Apr,2025,Vendor_1,Marketing,Digital advertising campaign,"70,349.90",51k-100k
+PO-200069,25/4/2025,25,Apr,2025,Vendor_4,Marketing,Digital advertising campaign,"40,960.67",21k-50k
+PO-200512,26/4/2025,26,Apr,2025,Vendor_5,Marketing,Digital advertising campaign,"44,983.81",21k-50k
+PO-200511,27/4/2025,27,Apr,2025,Vendor_10,Travel,Flight bookings,"5,175.31",6k-20k
+PO-200525,27/4/2025,27,Apr,2025,Vendor_2,Travel,Hotel accommodation,"164,652.13",>101k
+PO-200783,28/4/2025,28,Apr,2025,Vendor_6,Marketing,Brand promotion services,"6,539.47",6k-20k
+PO-200823,28/4/2025,28,Apr,2025,Vendor_7,Travel,Corporate travel package,"4,998.01",2k-5k
+PO-200707,29/4/2025,29,Apr,2025,Vendor_5,Marketing,Social media marketing,"44,819.90",21k-50k
+PO-200556,2/5/2025,2,May,2025,Vendor_1,Travel,Business travel expenses,"75,201.87",51k-100k
+PO-200810,2/5/2025,2,May,2025,Vendor_15,Entertainment,Conference entertainment services,"5,951.31",6k-20k
+PO-200367,3/5/2025,3,May,2025,Vendor_15,Entertainment,Client entertainment event,"3,021.94",2k-5k
+PO-200738,3/5/2025,3,May,2025,Vendor_4,Marketing,Market research services,"59,104.90",51k-100k
+PO-200914,3/5/2025,3,May,2025,Vendor_1,Marketing,Digital advertising campaign,"105,721.33",>101k
+PO-200335,4/5/2025,4,May,2025,Vendor_8,Travel,Flight bookings,"3,738.95",2k-5k
+PO-200003,6/5/2025,6,May,2025,Vendor_9,Travel,Flight bookings,"11,699.10",6k-20k
+PO-200130,6/5/2025,6,May,2025,Vendor_15,Entertainment,Client entertainment event,"9,615.11",6k-20k
+PO-200687,6/5/2025,6,May,2025,Vendor_1,Travel,Corporate travel package,"138,026.73",>101k
+PO-200114,7/5/2025,7,May,2025,Vendor_3,Entertainment,Corporate hospitality,"46,353.17",21k-50k
+PO-200461,8/5/2025,8,May,2025,Vendor_6,Marketing,Market research services,"7,230.85",6k-20k
+PO-200619,8/5/2025,8,May,2025,Vendor_9,Travel,Flight bookings,"8,129.00",6k-20k
+PO-200133,10/5/2025,10,May,2025,Vendor_1,Marketing,Brand promotion services,"217,862.33",>101k
+PO-200887,10/5/2025,10,May,2025,Vendor_3,Travel,Hotel accommodation,"20,641.04",21k-50k
+PO-200041,11/5/2025,11,May,2025,Vendor_2,Marketing,Market research services,"118,180.74",>101k
+PO-200073,11/5/2025,11,May,2025,Vendor_10,Travel,Flight bookings,"11,283.19",6k-20k
+PO-200106,11/5/2025,11,May,2025,Vendor_8,Travel,Corporate travel package,"8,424.19",6k-20k
+PO-200315,11/5/2025,11,May,2025,Vendor_5,Marketing,Social media marketing,"29,188.07",21k-50k
+PO-200310,12/5/2025,12,May,2025,Vendor_9,Travel,Flight bookings,"3,925.99",2k-5k
+PO-200742,13/5/2025,13,May,2025,Vendor_3,Entertainment,Team engagement event,"40,096.90",21k-50k
+PO-200228,14/5/2025,14,May,2025,Vendor_8,Travel,Corporate travel package,"8,937.18",6k-20k
+PO-200277,14/5/2025,14,May,2025,Vendor_4,Marketing,Digital advertising campaign,"28,250.96",21k-50k
+PO-200253,15/5/2025,15,May,2025,Vendor_3,Travel,Business travel expenses,"22,448.10",21k-50k
+PO-200151,16/5/2025,16,May,2025,Vendor_1,Marketing,Market research services,"217,793.72",>101k
+PO-200261,16/5/2025,16,May,2025,Vendor_3,Travel,Business travel expenses,"38,744.15",21k-50k
+PO-200064,18/5/2025,18,May,2025,Vendor_2,Marketing,Brand promotion services,"112,063.95",>101k
+PO-200416,18/5/2025,18,May,2025,Vendor_3,Entertainment,Client entertainment event,"35,038.74",21k-50k
+PO-200008,19/5/2025,19,May,2025,Vendor_8,Travel,Corporate travel package,"7,142.34",6k-20k
+PO-200594,19/5/2025,19,May,2025,Vendor_10,Travel,Hotel accommodation,"7,877.69",6k-20k
+PO-200685,19/5/2025,19,May,2025,Vendor_8,Travel,Business travel expenses,"6,452.46",6k-20k
+PO-200991,19/5/2025,19,May,2025,Vendor_9,Travel,Corporate travel package,"10,361.18",6k-20k
+PO-200124,20/5/2025,20,May,2025,Vendor_15,Entertainment,Team engagement event,"11,506.07",6k-20k
+PO-200192,20/5/2025,20,May,2025,Vendor_10,Travel,Corporate travel package,"3,071.72",2k-5k
+PO-200296,21/5/2025,21,May,2025,Vendor_3,Travel,Corporate travel package,"17,314.16",6k-20k
+PO-200372,21/5/2025,21,May,2025,Vendor_5,Marketing,Digital advertising campaign,"34,903.44",21k-50k
+PO-200938,21/5/2025,21,May,2025,Vendor_10,Travel,Hotel accommodation,"2,926.25",2k-5k
+PO-200777,22/5/2025,22,May,2025,Vendor_2,Entertainment,Client entertainment event,"166,696.71",>101k
+PO-200930,22/5/2025,22,May,2025,Vendor_8,Travel,Business travel expenses,"4,710.96",2k-5k
+PO-200478,23/5/2025,23,May,2025,Vendor_8,Travel,Flight bookings,"5,909.06",6k-20k
+PO-200134,25/5/2025,25,May,2025,Vendor_12,Entertainment,Corporate hospitality,"10,128.00",6k-20k
+PO-200758,25/5/2025,25,May,2025,Vendor_7,Travel,Flight bookings,"6,764.83",6k-20k
+PO-200883,29/5/2025,29,May,2025,Vendor_3,Entertainment,Client entertainment event,"28,677.41",21k-50k
+PO-200105,30/5/2025,30,May,2025,Vendor_6,Marketing,Market research services,"8,586.94",6k-20k
+PO-200202,30/5/2025,30,May,2025,Vendor_1,Travel,Hotel accommodation,"99,353.24",51k-100k
+PO-200407,30/5/2025,30,May,2025,Vendor_5,Marketing,Market research services,"34,147.20",21k-50k
+PO-200333,31/5/2025,31,May,2025,Vendor_1,Travel,Business travel expenses,"192,192.91",>101k
+PO-200486,31/5/2025,31,May,2025,Vendor_5,Marketing,Market research services,"18,042.57",6k-20k
+PO-200517,31/5/2025,31,May,2025,Vendor_9,Travel,Business travel expenses,"5,864.61",6k-20k
+PO-200620,31/5/2025,31,May,2025,Vendor_6,Marketing,Digital advertising campaign,"6,286.31",6k-20k
+PO-200199,1/6/2025,1,Jun,2025,Vendor_7,Travel,Hotel accommodation,"4,837.76",2k-5k
+PO-200996,1/6/2025,1,Jun,2025,Vendor_3,Entertainment,Conference entertainment services,"16,889.34",6k-20k
+PO-200638,3/6/2025,3,Jun,2025,Vendor_6,Marketing,Market research services,"4,020.16",2k-5k
+PO-200746,3/6/2025,3,Jun,2025,Vendor_11,Entertainment,Team engagement event,"4,013.12",2k-5k
+PO-200020,4/6/2025,4,Jun,2025,Vendor_3,Travel,Business travel expenses,"22,437.01",21k-50k
+PO-200280,4/6/2025,4,Jun,2025,Vendor_2,Entertainment,Team engagement event,"141,993.22",>101k
+PO-200274,6/6/2025,6,Jun,2025,Vendor_13,Entertainment,Team engagement event,"8,247.61",6k-20k
+PO-200354,7/6/2025,7,Jun,2025,Vendor_11,Entertainment,Corporate hospitality,"9,566.36",6k-20k
+PO-200414,9/6/2025,9,Jun,2025,Vendor_2,Entertainment,Team engagement event,"161,206.49",>101k
+PO-200582,9/6/2025,9,Jun,2025,Vendor_5,Marketing,Social media marketing,"36,643.78",21k-50k
+PO-200683,10/6/2025,10,Jun,2025,Vendor_4,Marketing,Market research services,"35,899.50",21k-50k
+PO-200888,11/6/2025,11,Jun,2025,Vendor_13,Entertainment,Corporate hospitality,"6,057.51",6k-20k
+PO-200251,12/6/2025,12,Jun,2025,Vendor_6,Marketing,Social media marketing,"9,375.01",6k-20k
+PO-200751,12/6/2025,12,Jun,2025,Vendor_6,Marketing,Brand promotion services,"11,440.42",6k-20k
+PO-200144,15/6/2025,15,Jun,2025,Vendor_14,Entertainment,Conference entertainment services,"7,538.54",6k-20k
+PO-200642,16/6/2025,16,Jun,2025,Vendor_15,Entertainment,Client entertainment event,"11,841.10",6k-20k
+PO-200182,17/6/2025,17,Jun,2025,Vendor_11,Entertainment,Corporate hospitality,"4,785.90",2k-5k
+PO-200799,19/6/2025,19,Jun,2025,Vendor_10,Travel,Flight bookings,"3,828.07",2k-5k
+PO-200886,20/6/2025,20,Jun,2025,Vendor_8,Travel,Hotel accommodation,"5,252.95",6k-20k
+PO-200439,21/6/2025,21,Jun,2025,Vendor_9,Travel,Hotel accommodation,"4,441.47",2k-5k
+PO-200369,22/6/2025,22,Jun,2025,Vendor_1,Travel,Corporate travel package,"164,721.79",>101k
+PO-200150,23/6/2025,23,Jun,2025,Vendor_6,Marketing,Brand promotion services,"4,293.95",2k-5k
+PO-200339,24/6/2025,24,Jun,2025,Vendor_1,Marketing,Market research services,"102,496.01",>101k
+PO-200816,24/6/2025,24,Jun,2025,Vendor_7,Travel,Hotel accommodation,"4,666.75",2k-5k
+PO-200173,25/6/2025,25,Jun,2025,Vendor_7,Travel,Flight bookings,"9,836.53",6k-20k
+PO-200733,25/6/2025,25,Jun,2025,Vendor_1,Marketing,Digital advertising campaign,"133,363.68",>101k
+PO-200204,26/6/2025,26,Jun,2025,Vendor_1,Marketing,Social media marketing,"68,261.68",51k-100k
+PO-200070,30/6/2025,30,Jun,2025,Vendor_2,Marketing,Market research services,"104,923.58",>101k
+PO-200153,30/6/2025,30,Jun,2025,Vendor_9,Travel,Flight bookings,"3,331.85",2k-5k
+PO-200218,30/6/2025,30,Jun,2025,Vendor_15,Entertainment,Corporate hospitality,"3,812.33",2k-5k
+PO-200117,1/7/2025,1,Jul,2025,Vendor_7,Travel,Business travel expenses,"11,905.05",6k-20k
+PO-200403,2/7/2025,2,Jul,2025,Vendor_7,Travel,Hotel accommodation,"8,532.63",6k-20k
+PO-200768,2/7/2025,2,Jul,2025,Vendor_1,Travel,Flight bookings,"161,265.01",>101k
+PO-200215,3/7/2025,3,Jul,2025,Vendor_3,Travel,Flight bookings,"49,210.25",21k-50k
+PO-200238,3/7/2025,3,Jul,2025,Vendor_8,Travel,Corporate travel package,"3,815.98",2k-5k
+PO-200699,4/7/2025,4,Jul,2025,Vendor_4,Marketing,Social media marketing,"40,865.08",21k-50k
+PO-200415,6/7/2025,6,Jul,2025,Vendor_15,Entertainment,Team engagement event,"6,130.31",6k-20k
+PO-200926,6/7/2025,6,Jul,2025,Vendor_1,Marketing,Social media marketing,"212,227.72",>101k
+PO-200482,7/7/2025,7,Jul,2025,Vendor_2,Travel,Corporate travel package,"175,894.21",>101k
+PO-200536,7/7/2025,7,Jul,2025,Vendor_5,Marketing,Brand promotion services,"32,657.72",21k-50k
+PO-200349,10/7/2025,10,Jul,2025,Vendor_13,Entertainment,Client entertainment event,"5,340.09",6k-20k
+PO-200351,10/7/2025,10,Jul,2025,Vendor_10,Travel,Business travel expenses,"10,816.37",6k-20k
+PO-200634,12/7/2025,12,Jul,2025,Vendor_7,Travel,Flight bookings,"5,123.49",6k-20k
+PO-200836,12/7/2025,12,Jul,2025,Vendor_4,Marketing,Brand promotion services,"36,149.47",21k-50k
+PO-200915,12/7/2025,12,Jul,2025,Vendor_9,Travel,Flight bookings,"2,721.11",2k-5k
+PO-200538,13/7/2025,13,Jul,2025,Vendor_4,Marketing,Digital advertising campaign,"51,399.76",51k-100k
+PO-200892,13/7/2025,13,Jul,2025,Vendor_8,Travel,Hotel accommodation,"4,653.26",2k-5k
+PO-200929,13/7/2025,13,Jul,2025,Vendor_3,Entertainment,Client entertainment event,"46,798.34",21k-50k
+PO-200932,13/7/2025,13,Jul,2025,Vendor_8,Travel,Business travel expenses,"9,365.35",6k-20k
+PO-200504,14/7/2025,14,Jul,2025,Vendor_12,Entertainment,Corporate hospitality,"7,011.53",6k-20k
+PO-200550,14/7/2025,14,Jul,2025,Vendor_8,Travel,Hotel accommodation,"8,673.50",6k-20k
+PO-200624,14/7/2025,14,Jul,2025,Vendor_6,Marketing,Market research services,"9,939.90",6k-20k
+PO-200678,15/7/2025,15,Jul,2025,Vendor_1,Marketing,Social media marketing,"219,270.00",>101k
+PO-200546,16/7/2025,16,Jul,2025,Vendor_10,Travel,Business travel expenses,"9,838.43",6k-20k
+PO-200596,16/7/2025,16,Jul,2025,Vendor_1,Travel,Hotel accommodation,"103,691.33",>101k
+PO-200732,16/7/2025,16,Jul,2025,Vendor_2,Travel,Corporate travel package,"126,264.04",>101k
+PO-200835,17/7/2025,17,Jul,2025,Vendor_8,Travel,Flight bookings,"5,451.92",6k-20k
+PO-200126,18/7/2025,18,Jul,2025,Vendor_4,Marketing,Social media marketing,"24,572.76",21k-50k
+PO-200838,19/7/2025,19,Jul,2025,Vendor_6,Marketing,Digital advertising campaign,"6,476.73",6k-20k
+PO-200724,21/7/2025,21,Jul,2025,Vendor_2,Marketing,Social media marketing,"82,815.06",51k-100k
+PO-200795,21/7/2025,21,Jul,2025,Vendor_5,Marketing,Digital advertising campaign,"31,979.11",21k-50k
+PO-200919,22/7/2025,22,Jul,2025,Vendor_4,Marketing,Social media marketing,"34,440.85",21k-50k
+PO-200086,23/7/2025,23,Jul,2025,Vendor_2,Entertainment,Client entertainment event,"194,229.36",>101k
+PO-200953,23/7/2025,23,Jul,2025,Vendor_1,Marketing,Digital advertising campaign,"125,814.31",>101k
+PO-200348,24/7/2025,24,Jul,2025,Vendor_11,Entertainment,Conference entertainment services,"4,452.86",2k-5k
+PO-200623,24/7/2025,24,Jul,2025,Vendor_3,Travel,Corporate travel package,"20,037.12",21k-50k
+PO-200831,24/7/2025,24,Jul,2025,Vendor_7,Travel,Hotel accommodation,"5,656.81",6k-20k
+PO-200056,25/7/2025,25,Jul,2025,Vendor_9,Travel,Hotel accommodation,"11,821.68",6k-20k
+PO-200617,26/7/2025,26,Jul,2025,Vendor_9,Travel,Flight bookings,"7,233.91",6k-20k
+PO-200207,27/7/2025,27,Jul,2025,Vendor_15,Entertainment,Corporate hospitality,"3,708.88",2k-5k
+PO-200249,28/7/2025,28,Jul,2025,Vendor_11,Entertainment,Corporate hospitality,"5,334.99",6k-20k
+PO-200443,28/7/2025,28,Jul,2025,Vendor_1,Travel,Hotel accommodation,"219,906.20",>101k
+PO-200423,29/7/2025,29,Jul,2025,Vendor_3,Travel,Corporate travel package,"46,804.97",21k-50k
+PO-200033,31/7/2025,31,Jul,2025,Vendor_8,Travel,Business travel expenses,"3,612.21",2k-5k
+PO-200169,31/7/2025,31,Jul,2025,Vendor_2,Travel,Business travel expenses,"180,821.96",>101k
+PO-200507,31/7/2025,31,Jul,2025,Vendor_3,Travel,Business travel expenses,"33,134.11",21k-50k
+PO-200227,1/8/2025,1,Aug,2025,Vendor_3,Travel,Business travel expenses,"34,418.77",21k-50k
+PO-200513,2/8/2025,2,Aug,2025,Vendor_1,Travel,Corporate travel package,"81,626.61",51k-100k
+PO-200216,3/8/2025,3,Aug,2025,Vendor_5,Marketing,Brand promotion services,"19,801.47",6k-20k
+PO-200597,3/8/2025,3,Aug,2025,Vendor_14,Entertainment,Corporate hospitality,"10,527.28",6k-20k
+PO-200606,4/8/2025,4,Aug,2025,Vendor_10,Travel,Hotel accommodation,"10,447.89",6k-20k
+PO-200898,4/8/2025,4,Aug,2025,Vendor_11,Entertainment,Client entertainment event,"3,421.70",2k-5k
+PO-200382,6/8/2025,6,Aug,2025,Vendor_8,Travel,Flight bookings,"7,902.64",6k-20k
+PO-200813,8/8/2025,8,Aug,2025,Vendor_7,Travel,Corporate travel package,"2,998.67",2k-5k
+PO-200650,10/8/2025,10,Aug,2025,Vendor_4,Marketing,Brand promotion services,"51,866.48",51k-100k
+PO-200390,11/8/2025,11,Aug,2025,Vendor_7,Travel,Flight bookings,"5,506.27",6k-20k
+PO-200463,11/8/2025,11,Aug,2025,Vendor_1,Travel,Hotel accommodation,"123,984.83",>101k
+PO-200376,13/8/2025,13,Aug,2025,Vendor_2,Marketing,Digital advertising campaign,"184,255.50",>101k
+PO-200906,14/8/2025,14,Aug,2025,Vendor_2,Entertainment,Team engagement event,"212,394.74",>101k
+PO-200344,15/8/2025,15,Aug,2025,Vendor_15,Entertainment,Conference entertainment services,"8,832.59",6k-20k
+PO-200214,18/8/2025,18,Aug,2025,Vendor_15,Entertainment,Client entertainment event,"8,845.72",6k-20k
+PO-200602,18/8/2025,18,Aug,2025,Vendor_8,Travel,Corporate travel package,"5,988.36",6k-20k
+PO-200607,18/8/2025,18,Aug,2025,Vendor_1,Marketing,Market research services,"65,378.18",51k-100k
+PO-200574,20/8/2025,20,Aug,2025,Vendor_4,Marketing,Digital advertising campaign,"39,241.31",21k-50k
+PO-200613,21/8/2025,21,Aug,2025,Vendor_15,Entertainment,Corporate hospitality,"3,449.65",2k-5k
+PO-200695,24/8/2025,24,Aug,2025,Vendor_12,Entertainment,Conference entertainment services,"3,080.26",2k-5k
+PO-200703,24/8/2025,24,Aug,2025,Vendor_8,Travel,Corporate travel package,"4,967.28",2k-5k
+PO-200949,25/8/2025,25,Aug,2025,Vendor_5,Marketing,Brand promotion services,"48,429.67",21k-50k
+PO-200370,26/8/2025,26,Aug,2025,Vendor_13,Entertainment,Corporate hospitality,"3,510.58",2k-5k
+PO-200112,27/8/2025,27,Aug,2025,Vendor_9,Travel,Flight bookings,"8,557.23",6k-20k
+PO-200421,27/8/2025,27,Aug,2025,Vendor_13,Entertainment,Corporate hospitality,"3,697.58",2k-5k
+PO-200861,27/8/2025,27,Aug,2025,Vendor_14,Entertainment,Client entertainment event,"2,449.11",2k-5k
+PO-200203,29/8/2025,29,Aug,2025,Vendor_12,Entertainment,Corporate hospitality,"4,850.95",2k-5k
+PO-200384,29/8/2025,29,Aug,2025,Vendor_9,Travel,Hotel accommodation,"6,799.39",6k-20k
+PO-200565,29/8/2025,29,Aug,2025,Vendor_2,Travel,Corporate travel package,"190,845.65",>101k
+PO-200048,1/9/2025,1,Sep,2025,Vendor_10,Travel,Corporate travel package,"6,703.01",6k-20k
+PO-200122,3/9/2025,3,Sep,2025,Vendor_4,Marketing,Social media marketing,"19,499.32",6k-20k
+PO-200639,4/9/2025,4,Sep,2025,Vendor_13,Entertainment,Conference entertainment services,"10,203.78",6k-20k
+PO-200858,4/9/2025,4,Sep,2025,Vendor_7,Travel,Corporate travel package,"2,953.99",2k-5k
+PO-200446,5/9/2025,5,Sep,2025,Vendor_9,Travel,Hotel accommodation,"5,270.33",6k-20k
+PO-200815,5/9/2025,5,Sep,2025,Vendor_5,Marketing,Digital advertising campaign,"48,129.02",21k-50k
+PO-200312,6/9/2025,6,Sep,2025,Vendor_12,Entertainment,Corporate hospitality,"7,224.35",6k-20k
+PO-200522,6/9/2025,6,Sep,2025,Vendor_9,Travel,Flight bookings,"7,094.22",6k-20k
+PO-200226,7/9/2025,7,Sep,2025,Vendor_4,Marketing,Social media marketing,"32,275.10",21k-50k
+PO-200826,7/9/2025,7,Sep,2025,Vendor_3,Travel,Hotel accommodation,"21,854.75",21k-50k
+PO-200595,10/9/2025,10,Sep,2025,Vendor_7,Travel,Hotel accommodation,"5,345.11",6k-20k
+PO-200426,11/9/2025,11,Sep,2025,Vendor_11,Entertainment,Conference entertainment services,"10,642.16",6k-20k
+PO-200701,11/9/2025,11,Sep,2025,Vendor_14,Entertainment,Client entertainment event,"5,945.76",6k-20k
+PO-200974,11/9/2025,11,Sep,2025,Vendor_2,Marketing,Brand promotion services,"145,102.25",>101k
+PO-200240,14/9/2025,14,Sep,2025,Vendor_2,Marketing,Market research services,"140,942.19",>101k
+PO-200578,14/9/2025,14,Sep,2025,Vendor_13,Entertainment,Client entertainment event,"3,247.14",2k-5k
+PO-200534,15/9/2025,15,Sep,2025,Vendor_6,Marketing,Market research services,"10,646.60",6k-20k
+PO-200187,16/9/2025,16,Sep,2025,Vendor_1,Travel,Corporate travel package,"188,992.20",>101k
+PO-200729,16/9/2025,16,Sep,2025,Vendor_2,Entertainment,Client entertainment event,"76,841.47",51k-100k
+PO-200557,17/9/2025,17,Sep,2025,Vendor_5,Marketing,Market research services,"32,489.38",21k-50k
+PO-200060,19/9/2025,19,Sep,2025,Vendor_13,Entertainment,Conference entertainment services,"10,877.70",6k-20k
+PO-200533,20/9/2025,20,Sep,2025,Vendor_6,Marketing,Market research services,"4,660.19",2k-5k
+PO-200660,20/9/2025,20,Sep,2025,Vendor_3,Travel,Flight bookings,"16,493.52",6k-20k
+PO-200712,20/9/2025,20,Sep,2025,Vendor_2,Travel,Corporate travel package,"162,060.33",>101k
+PO-200862,20/9/2025,20,Sep,2025,Vendor_6,Marketing,Social media marketing,"5,924.58",6k-20k
+PO-200992,21/9/2025,21,Sep,2025,Vendor_13,Entertainment,Client entertainment event,"6,850.95",6k-20k
+PO-200193,22/9/2025,22,Sep,2025,Vendor_4,Marketing,Social media marketing,"25,911.17",21k-50k
+PO-200425,23/9/2025,23,Sep,2025,Vendor_9,Travel,Flight bookings,"9,817.90",6k-20k
+PO-200676,23/9/2025,23,Sep,2025,Vendor_13,Entertainment,Client entertainment event,"7,932.22",6k-20k
+PO-200778,23/9/2025,23,Sep,2025,Vendor_12,Entertainment,Team engagement event,"10,034.83",6k-20k
+PO-200128,25/9/2025,25,Sep,2025,Vendor_6,Marketing,Social media marketing,"11,959.31",6k-20k
+PO-200289,25/9/2025,25,Sep,2025,Vendor_12,Entertainment,Client entertainment event,"5,831.39",6k-20k
+PO-200976,25/9/2025,25,Sep,2025,Vendor_1,Marketing,Market research services,"202,536.89",>101k
+PO-200232,26/9/2025,26,Sep,2025,Vendor_1,Travel,Hotel accommodation,"181,993.39",>101k
+PO-200393,26/9/2025,26,Sep,2025,Vendor_2,Marketing,Market research services,"161,828.84",>101k
+PO-200924,27/9/2025,27,Sep,2025,Vendor_7,Travel,Business travel expenses,"4,685.34",2k-5k
+PO-200480,28/9/2025,28,Sep,2025,Vendor_9,Travel,Business travel expenses,"6,427.17",6k-20k
+PO-200095,29/9/2025,29,Sep,2025,Vendor_14,Entertainment,Team engagement event,"4,502.43",2k-5k
+PO-200822,29/9/2025,29,Sep,2025,Vendor_10,Travel,Business travel expenses,"5,480.96",6k-20k
+PO-200078,30/9/2025,30,Sep,2025,Vendor_2,Travel,Hotel accommodation,"117,383.49",>101k
+PO-200188,30/9/2025,30,Sep,2025,Vendor_8,Travel,Corporate travel package,"4,093.49",2k-5k
+PO-200609,30/9/2025,30,Sep,2025,Vendor_4,Marketing,Social media marketing,"30,630.45",21k-50k
+PO-200065,1/10/2025,1,Oct,2025,Vendor_9,Travel,Business travel expenses,"9,209.40",6k-20k
+PO-200427,3/10/2025,3,Oct,2025,Vendor_7,Travel,Corporate travel package,"4,697.50",2k-5k
+PO-200412,4/10/2025,4,Oct,2025,Vendor_8,Travel,Hotel accommodation,"5,591.51",6k-20k
+PO-200262,5/10/2025,5,Oct,2025,Vendor_5,Marketing,Brand promotion services,"37,365.54",21k-50k
+PO-200939,5/10/2025,5,Oct,2025,Vendor_1,Marketing,Market research services,"197,811.14",>101k
+PO-200646,6/10/2025,6,Oct,2025,Vendor_12,Entertainment,Corporate hospitality,"2,794.07",2k-5k
+PO-200829,6/10/2025,6,Oct,2025,Vendor_8,Travel,Corporate travel package,"11,427.24",6k-20k
+PO-200960,6/10/2025,6,Oct,2025,Vendor_3,Entertainment,Client entertainment event,"22,220.82",21k-50k
+PO-200034,7/10/2025,7,Oct,2025,Vendor_8,Travel,Hotel accommodation,"8,334.04",6k-20k
+PO-200206,7/10/2025,7,Oct,2025,Vendor_5,Marketing,Market research services,"56,282.80",51k-100k
+PO-200562,8/10/2025,8,Oct,2025,Vendor_15,Entertainment,Corporate hospitality,"9,284.91",6k-20k
+PO-200767,8/10/2025,8,Oct,2025,Vendor_15,Entertainment,Conference entertainment services,"4,946.19",2k-5k
+PO-200484,9/10/2025,9,Oct,2025,Vendor_9,Travel,Corporate travel package,"3,918.67",2k-5k
+PO-200494,9/10/2025,9,Oct,2025,Vendor_10,Travel,Flight bookings,"5,008.53",6k-20k
+PO-200952,10/10/2025,10,Oct,2025,Vendor_3,Entertainment,Client entertainment event,"55,290.57",51k-100k
+PO-200213,11/10/2025,11,Oct,2025,Vendor_1,Travel,Corporate travel package,"81,506.35",51k-100k
+PO-200792,12/10/2025,12,Oct,2025,Vendor_14,Entertainment,Conference entertainment services,"5,162.70",6k-20k
+PO-200891,12/10/2025,12,Oct,2025,Vendor_1,Travel,Business travel expenses,"142,815.41",>101k
+PO-200801,13/10/2025,13,Oct,2025,Vendor_3,Travel,Corporate travel package,"50,182.07",51k-100k
+PO-200131,14/10/2025,14,Oct,2025,Vendor_13,Entertainment,Corporate hospitality,"2,841.07",2k-5k
+PO-200499,15/10/2025,15,Oct,2025,Vendor_2,Entertainment,Conference entertainment services,"173,399.15",>101k
+PO-200306,16/10/2025,16,Oct,2025,Vendor_15,Entertainment,Corporate hospitality,"6,894.25",6k-20k
+PO-200098,17/10/2025,17,Oct,2025,Vendor_10,Travel,Business travel expenses,"4,477.31",2k-5k
+PO-200129,19/10/2025,19,Oct,2025,Vendor_5,Marketing,Social media marketing,"39,566.21",21k-50k
+PO-200091,20/10/2025,20,Oct,2025,Vendor_2,Entertainment,Conference entertainment services,"174,335.22",>101k
+PO-200665,20/10/2025,20,Oct,2025,Vendor_12,Entertainment,Conference entertainment services,"3,288.49",2k-5k
+PO-200747,20/10/2025,20,Oct,2025,Vendor_1,Marketing,Digital advertising campaign,"146,883.93",>101k
+PO-200993,20/10/2025,20,Oct,2025,Vendor_11,Entertainment,Corporate hospitality,"7,105.62",6k-20k
+PO-200247,22/10/2025,22,Oct,2025,Vendor_13,Entertainment,Team engagement event,"4,273.96",2k-5k
+PO-200304,22/10/2025,22,Oct,2025,Vendor_15,Entertainment,Team engagement event,"9,322.25",6k-20k
+PO-200561,22/10/2025,22,Oct,2025,Vendor_14,Entertainment,Corporate hospitality,"8,360.71",6k-20k
+PO-200869,22/10/2025,22,Oct,2025,Vendor_5,Marketing,Market research services,"34,647.64",21k-50k
+PO-200254,23/10/2025,23,Oct,2025,Vendor_14,Entertainment,Client entertainment event,"9,804.96",6k-20k
+PO-200476,23/10/2025,23,Oct,2025,Vendor_12,Entertainment,Team engagement event,"7,353.58",6k-20k
+PO-200654,23/10/2025,23,Oct,2025,Vendor_8,Travel,Business travel expenses,"8,209.29",6k-20k
+PO-200118,24/10/2025,24,Oct,2025,Vendor_4,Marketing,Social media marketing,"41,124.48",21k-50k
+PO-200002,25/10/2025,25,Oct,2025,Vendor_1,Travel,Flight bookings,"156,178.40",>101k
+PO-200107,25/10/2025,25,Oct,2025,Vendor_13,Entertainment,Conference entertainment services,"11,402.30",6k-20k
+PO-200085,26/10/2025,26,Oct,2025,Vendor_1,Marketing,Social media marketing,"65,750.76",51k-100k
+PO-200225,26/10/2025,26,Oct,2025,Vendor_7,Travel,Business travel expenses,"7,027.20",6k-20k
+PO-200454,26/10/2025,26,Oct,2025,Vendor_6,Marketing,Digital advertising campaign,"10,137.66",6k-20k
+PO-200611,27/10/2025,27,Oct,2025,Vendor_7,Travel,Business travel expenses,"5,934.48",6k-20k
+PO-200350,28/10/2025,28,Oct,2025,Vendor_9,Travel,Hotel accommodation,"3,058.34",2k-5k
+PO-200860,28/10/2025,28,Oct,2025,Vendor_2,Marketing,Brand promotion services,"123,653.86",>101k
+PO-200845,29/10/2025,29,Oct,2025,Vendor_15,Entertainment,Corporate hospitality,"10,537.85",6k-20k
+PO-200990,29/10/2025,29,Oct,2025,Vendor_10,Travel,Corporate travel package,"2,099.79",2k-5k
+PO-200436,30/10/2025,30,Oct,2025,Vendor_15,Entertainment,Client entertainment event,"9,308.29",6k-20k
+PO-200725,30/10/2025,30,Oct,2025,Vendor_10,Travel,Business travel expenses,"3,544.60",2k-5k
+PO-200780,31/10/2025,31,Oct,2025,Vendor_6,Marketing,Digital advertising campaign,"7,489.80",6k-20k
+PO-200972,2/11/2025,2,Nov,2025,Vendor_3,Travel,Flight bookings,"33,499.21",21k-50k
+PO-200388,3/11/2025,3,Nov,2025,Vendor_2,Entertainment,Corporate hospitality,"93,655.93",51k-100k
+PO-200793,4/11/2025,4,Nov,2025,Vendor_12,Entertainment,Team engagement event,"4,703.93",2k-5k
+PO-200977,4/11/2025,4,Nov,2025,Vendor_4,Marketing,Market research services,"41,196.47",21k-50k
+PO-200652,5/11/2025,5,Nov,2025,Vendor_12,Entertainment,Corporate hospitality,"9,190.77",6k-20k
+PO-200149,6/11/2025,6,Nov,2025,Vendor_8,Travel,Corporate travel package,"3,696.80",2k-5k
+PO-200292,6/11/2025,6,Nov,2025,Vendor_5,Marketing,Market research services,"34,673.70",21k-50k
+PO-200978,9/11/2025,9,Nov,2025,Vendor_7,Travel,Corporate travel package,"5,110.02",6k-20k
+PO-200882,10/11/2025,10,Nov,2025,Vendor_7,Travel,Flight bookings,"9,231.28",6k-20k
+PO-200063,11/11/2025,11,Nov,2025,Vendor_6,Marketing,Social media marketing,"8,519.61",6k-20k
+PO-200921,11/11/2025,11,Nov,2025,Vendor_15,Entertainment,Client entertainment event,"11,789.58",6k-20k
+PO-200471,12/11/2025,12,Nov,2025,Vendor_8,Travel,Hotel accommodation,"5,607.73",6k-20k
+PO-200288,15/11/2025,15,Nov,2025,Vendor_3,Travel,Flight bookings,"37,242.32",21k-50k
+PO-200588,15/11/2025,15,Nov,2025,Vendor_11,Entertainment,Conference entertainment services,"7,202.97",6k-20k
+PO-200748,15/11/2025,15,Nov,2025,Vendor_2,Travel,Flight bookings,"155,859.29",>101k
+PO-200773,15/11/2025,15,Nov,2025,Vendor_7,Travel,Hotel accommodation,"10,082.35",6k-20k
+PO-200601,16/11/2025,16,Nov,2025,Vendor_10,Travel,Hotel accommodation,"2,572.80",2k-5k
+PO-200948,16/11/2025,16,Nov,2025,Vendor_6,Marketing,Social media marketing,"7,442.54",6k-20k
+PO-200007,17/11/2025,17,Nov,2025,Vendor_15,Entertainment,Team engagement event,"6,560.70",6k-20k
+PO-200424,17/11/2025,17,Nov,2025,Vendor_4,Marketing,Market research services,"16,650.21",6k-20k
+PO-200818,17/11/2025,17,Nov,2025,Vendor_10,Travel,Business travel expenses,"9,739.91",6k-20k
+PO-200728,18/11/2025,18,Nov,2025,Vendor_1,Travel,Flight bookings,"144,973.66",>101k
+PO-200693,19/11/2025,19,Nov,2025,Vendor_6,Marketing,Market research services,"4,806.83",2k-5k
+PO-200524,20/11/2025,20,Nov,2025,Vendor_8,Travel,Corporate travel package,"10,480.16",6k-20k
+PO-200029,21/11/2025,21,Nov,2025,Vendor_5,Marketing,Brand promotion services,"34,770.14",21k-50k
+PO-200108,21/11/2025,21,Nov,2025,Vendor_9,Travel,Business travel expenses,"8,432.88",6k-20k
+PO-200127,23/11/2025,23,Nov,2025,Vendor_11,Entertainment,Client entertainment event,"3,134.65",2k-5k
+PO-200819,23/11/2025,23,Nov,2025,Vendor_2,Entertainment,Conference entertainment services,"80,088.03",51k-100k
+PO-200864,23/11/2025,23,Nov,2025,Vendor_8,Travel,Flight bookings,"4,510.01",2k-5k
+PO-200916,24/11/2025,24,Nov,2025,Vendor_5,Marketing,Digital advertising campaign,"43,878.05",21k-50k
+PO-200119,25/11/2025,25,Nov,2025,Vendor_14,Entertainment,Client entertainment event,"4,385.97",2k-5k
+PO-200179,26/11/2025,26,Nov,2025,Vendor_9,Travel,Corporate travel package,"3,818.80",2k-5k
+PO-200234,26/11/2025,26,Nov,2025,Vendor_5,Marketing,Digital advertising campaign,"20,736.99",21k-50k
+PO-200567,26/11/2025,26,Nov,2025,Vendor_5,Marketing,Digital advertising campaign,"41,565.65",21k-50k
+PO-200190,29/11/2025,29,Nov,2025,Vendor_6,Marketing,Digital advertising campaign,"2,623.41",2k-5k
+PO-200356,30/11/2025,30,Nov,2025,Vendor_7,Travel,Corporate travel package,"4,598.04",2k-5k
+PO-200881,30/11/2025,30,Nov,2025,Vendor_10,Travel,Flight bookings,"7,904.31",6k-20k
+PO-200761,1/12/2025,1,Dec,2025,Vendor_6,Marketing,Digital advertising campaign,"11,715.33",6k-20k
+PO-200903,1/12/2025,1,Dec,2025,Vendor_1,Travel,Flight bookings,"215,241.14",>101k
+PO-200770,3/12/2025,3,Dec,2025,Vendor_10,Travel,Corporate travel package,"9,000.34",6k-20k
+PO-200325,5/12/2025,5,Dec,2025,Vendor_10,Travel,Flight bookings,"2,420.93",2k-5k
+PO-200361,5/12/2025,5,Dec,2025,Vendor_3,Travel,Corporate travel package,"18,030.78",6k-20k
+PO-200876,7/12/2025,7,Dec,2025,Vendor_1,Marketing,Social media marketing,"141,107.27",>101k
+PO-200485,8/12/2025,8,Dec,2025,Vendor_4,Marketing,Brand promotion services,"30,974.83",21k-50k
+PO-200154,9/12/2025,9,Dec,2025,Vendor_12,Entertainment,Corporate hospitality,"6,166.39",6k-20k
+PO-200305,10/12/2025,10,Dec,2025,Vendor_10,Travel,Flight bookings,"8,922.77",6k-20k
+PO-200052,11/12/2025,11,Dec,2025,Vendor_10,Travel,Business travel expenses,"4,264.96",2k-5k
+PO-200449,11/12/2025,11,Dec,2025,Vendor_1,Marketing,Digital advertising campaign,"118,633.85",>101k
+PO-200487,12/12/2025,12,Dec,2025,Vendor_1,Travel,Flight bookings,"103,383.59",>101k
+PO-200162,14/12/2025,14,Dec,2025,Vendor_7,Travel,Flight bookings,"9,261.21",6k-20k
+PO-200278,14/12/2025,14,Dec,2025,Vendor_15,Entertainment,Conference entertainment services,"3,401.13",2k-5k
+PO-200404,14/12/2025,14,Dec,2025,Vendor_15,Entertainment,Client entertainment event,"6,932.77",6k-20k
+PO-200788,16/12/2025,16,Dec,2025,Vendor_2,Entertainment,Team engagement event,"68,693.13",51k-100k
+PO-200863,18/12/2025,18,Dec,2025,Vendor_1,Marketing,Digital advertising campaign,"131,098.46",>101k
+PO-200950,21/12/2025,21,Dec,2025,Vendor_7,Travel,Business travel expenses,"9,707.43",6k-20k
+PO-200316,22/12/2025,22,Dec,2025,Vendor_7,Travel,Hotel accommodation,"5,187.53",6k-20k
+PO-200258,23/12/2025,23,Dec,2025,Vendor_3,Entertainment,Team engagement event,"34,205.50",21k-50k
+PO-200798,25/12/2025,25,Dec,2025,Vendor_9,Travel,Hotel accommodation,"3,391.16",2k-5k
+PO-200381,26/12/2025,26,Dec,2025,Vendor_7,Travel,Corporate travel package,"6,915.95",6k-20k
+PO-200971,26/12/2025,26,Dec,2025,Vendor_12,Entertainment,Team engagement event,"6,145.16",6k-20k
+PO-200667,27/12/2025,27,Dec,2025,Vendor_5,Marketing,Brand promotion services,"56,313.44",51k-100k
+PO-200808,28/12/2025,28,Dec,2025,Vendor_9,Travel,Flight bookings,"2,359.39",2k-5k
+PO-200121,29/12/2025,29,Dec,2025,Vendor_13,Entertainment,Corporate hospitality,"6,965.61",6k-20k
+PO-200797,29/12/2025,29,Dec,2025,Vendor_6,Marketing,Digital advertising campaign,"11,301.71",6k-20k
+PO-200825,29/12/2025,29,Dec,2025,Vendor_7,Travel,Corporate travel package,"9,831.98",6k-20k
+PO-200690,30/12/2025,30,Dec,2025,Vendor_3,Travel,Flight bookings,"36,262.20",21k-50k
+PO-200756,31/12/2025,31,Dec,2025,Vendor_4,Marketing,Digital advertising campaign,"53,950.97",51k-100k
+PO-200922,31/12/2025,31,Dec,2025,Vendor_10,Travel,Hotel accommodation,"7,821.83",6k-20k
+PO-200401,2/1/2026,2,Jan,2026,Vendor_4,Marketing,Brand promotion services,"30,160.31",21k-50k
+PO-200535,2/1/2026,2,Jan,2026,Vendor_10,Travel,Corporate travel package,"10,106.86",6k-20k
+PO-200868,2/1/2026,2,Jan,2026,Vendor_2,Entertainment,Conference entertainment services,"105,196.60",>101k
+PO-200276,3/1/2026,3,Jan,2026,Vendor_12,Entertainment,Client entertainment event,"6,094.12",6k-20k
+PO-200379,3/1/2026,3,Jan,2026,Vendor_8,Travel,Hotel accommodation,"6,620.97",6k-20k
+PO-200842,3/1/2026,3,Jan,2026,Vendor_7,Travel,Hotel accommodation,"6,328.16",6k-20k
+PO-200076,4/1/2026,4,Jan,2026,Vendor_6,Marketing,Brand promotion services,"7,568.01",6k-20k
+PO-200044,5/1/2026,5,Jan,2026,Vendor_15,Entertainment,Conference entertainment services,"2,514.79",2k-5k
+PO-200737,5/1/2026,5,Jan,2026,Vendor_15,Entertainment,Conference entertainment services,"2,309.38",2k-5k
+PO-200413,6/1/2026,6,Jan,2026,Vendor_8,Travel,Corporate travel package,"10,359.98",6k-20k
+PO-200759,6/1/2026,6,Jan,2026,Vendor_1,Travel,Flight bookings,"130,263.97",>101k
+PO-200943,6/1/2026,6,Jan,2026,Vendor_10,Travel,Business travel expenses,"2,295.04",2k-5k
+PO-200366,7/1/2026,7,Jan,2026,Vendor_9,Travel,Hotel accommodation,"3,589.38",2k-5k
+PO-200026,8/1/2026,8,Jan,2026,Vendor_8,Travel,Hotel accommodation,"10,872.13",6k-20k
+PO-200380,9/1/2026,9,Jan,2026,Vendor_2,Marketing,Brand promotion services,"169,690.45",>101k
+PO-200528,11/1/2026,11,Jan,2026,Vendor_5,Marketing,Social media marketing,"33,836.13",21k-50k
+PO-200483,13/1/2026,13,Jan,2026,Vendor_13,Entertainment,Client entertainment event,"2,794.19",2k-5k
+PO-200038,14/1/2026,14,Jan,2026,Vendor_9,Travel,Flight bookings,"10,180.15",6k-20k
+PO-200005,17/1/2026,17,Jan,2026,Vendor_8,Travel,Hotel accommodation,"7,247.56",6k-20k
+PO-200321,17/1/2026,17,Jan,2026,Vendor_6,Marketing,Digital advertising campaign,"7,807.57",6k-20k
+PO-200752,17/1/2026,17,Jan,2026,Vendor_14,Entertainment,Corporate hospitality,"11,809.87",6k-20k
+PO-200031,18/1/2026,18,Jan,2026,Vendor_9,Travel,Flight bookings,"4,492.92",2k-5k
+PO-200222,18/1/2026,18,Jan,2026,Vendor_8,Travel,Hotel accommodation,"5,588.30",6k-20k
+PO-200191,19/1/2026,19,Jan,2026,Vendor_3,Travel,Business travel expenses,"55,284.31",51k-100k
+PO-200295,20/1/2026,20,Jan,2026,Vendor_10,Travel,Flight bookings,"4,699.11",2k-5k
+PO-200757,20/1/2026,20,Jan,2026,Vendor_5,Marketing,Social media marketing,"42,095.26",21k-50k
+PO-200844,21/1/2026,21,Jan,2026,Vendor_13,Entertainment,Conference entertainment services,"10,436.50",6k-20k
+PO-200889,22/1/2026,22,Jan,2026,Vendor_10,Travel,Flight bookings,"7,424.71",6k-20k
+PO-200111,23/1/2026,23,Jan,2026,Vendor_2,Entertainment,Corporate hospitality,"66,234.10",51k-100k
+PO-200854,23/1/2026,23,Jan,2026,Vendor_9,Travel,Business travel expenses,"11,601.68",6k-20k
+PO-200411,24/1/2026,24,Jan,2026,Vendor_13,Entertainment,Corporate hospitality,"8,550.09",6k-20k
+PO-200708,24/1/2026,24,Jan,2026,Vendor_2,Marketing,Digital advertising campaign,"124,678.36",>101k
+PO-200318,28/1/2026,28,Jan,2026,Vendor_1,Travel,Hotel accommodation,"63,403.11",51k-100k
+PO-200658,28/1/2026,28,Jan,2026,Vendor_12,Entertainment,Conference entertainment services,"11,917.43",6k-20k
+PO-200745,30/1/2026,30,Jan,2026,Vendor_10,Travel,Hotel accommodation,"8,234.06",6k-20k
+PO-200755,30/1/2026,30,Jan,2026,Vendor_5,Marketing,Social media marketing,"38,007.40",21k-50k
+PO-200753,31/1/2026,31,Jan,2026,Vendor_10,Travel,Hotel accommodation,"7,887.32",6k-20k
+PO-200363,1/2/2026,1,Feb,2026,Vendor_15,Entertainment,Client entertainment event,"6,459.58",6k-20k
+PO-200590,1/2/2026,1,Feb,2026,Vendor_4,Marketing,Digital advertising campaign,"41,920.14",21k-50k
+PO-200170,2/2/2026,2,Feb,2026,Vendor_11,Entertainment,Team engagement event,"3,363.71",2k-5k
+PO-200988,3/2/2026,3,Feb,2026,Vendor_1,Marketing,Social media marketing,"71,047.35",51k-100k
+PO-200508,6/2/2026,6,Feb,2026,Vendor_2,Travel,Hotel accommodation,"213,171.66",>101k
+PO-200257,7/2/2026,7,Feb,2026,Vendor_7,Travel,Corporate travel package,"7,021.95",6k-20k
+PO-200865,7/2/2026,7,Feb,2026,Vendor_4,Marketing,Market research services,"53,127.23",51k-100k
+PO-200553,8/2/2026,8,Feb,2026,Vendor_11,Entertainment,Conference entertainment services,"6,743.36",6k-20k
+PO-200564,8/2/2026,8,Feb,2026,Vendor_3,Entertainment,Client entertainment event,"47,757.62",21k-50k
+PO-200161,9/2/2026,9,Feb,2026,Vendor_11,Entertainment,Team engagement event,"9,499.11",6k-20k
+PO-200330,10/2/2026,10,Feb,2026,Vendor_8,Travel,Flight bookings,"9,433.53",6k-20k
+PO-200089,12/2/2026,12,Feb,2026,Vendor_3,Entertainment,Client entertainment event,"35,576.93",21k-50k
+PO-200467,13/2/2026,13,Feb,2026,Vendor_3,Entertainment,Conference entertainment services,"36,759.55",21k-50k
+PO-200540,14/2/2026,14,Feb,2026,Vendor_6,Marketing,Social media marketing,"6,954.52",6k-20k
+PO-200675,14/2/2026,14,Feb,2026,Vendor_10,Travel,Corporate travel package,"2,644.91",2k-5k
+PO-200010,15/2/2026,15,Feb,2026,Vendor_1,Marketing,Market research services,"150,126.11",>101k
+PO-200010a,15/2/2026,15,Feb,2026,Vendor_1i,Marketing,Flight bookings,"7,000.00",6k-20k
+PO-200010o,15/2/2026,15,Feb,2026,Vendor_1i,Marketing,Client entertainment event,99.99,<1k
+PO-200452,15/2/2026,15,Feb,2026,Vendor_1,Marketing,Market research services,"166,914.05",>101k
+PO-200697,15/2/2026,15,Feb,2026,Vendor_5,Marketing,Brand promotion services,"56,928.92",51k-100k
+PO-200552,16/2/2026,16,Feb,2026,Vendor_7,Travel,Hotel accommodation,"10,958.15",6k-20k
+PO-200923,16/2/2026,16,Feb,2026,Vendor_7,Travel,Business travel expenses,"4,642.76",2k-5k
+PO-200244,17/2/2026,17,Feb,2026,Vendor_10,Travel,Corporate travel package,"10,404.40",6k-20k
+PO-200560,18/2/2026,18,Feb,2026,Vendor_11,Entertainment,Team engagement event,"10,792.69",6k-20k
+PO-200444,19/2/2026,19,Feb,2026,Vendor_15,Entertainment,Client entertainment event,"11,933.37",6k-20k
+PO-200627,20/2/2026,20,Feb,2026,Vendor_2,Travel,Hotel accommodation,"85,859.17",51k-100k
+PO-200459,21/2/2026,21,Feb,2026,Vendor_14,Entertainment,Conference entertainment services,"11,270.35",6k-20k
+PO-200470,21/2/2026,21,Feb,2026,Vendor_13,Entertainment,Client entertainment event,"9,937.44",6k-20k
+PO-200555,21/2/2026,21,Feb,2026,Vendor_8,Travel,Hotel accommodation,"3,280.96",2k-5k
+PO-200655,21/2/2026,21,Feb,2026,Vendor_10,Travel,Corporate travel package,"6,712.87",6k-20k
+PO-200374,24/2/2026,24,Feb,2026,Vendor_2,Marketing,Digital advertising campaign,"174,387.85",>101k
+PO-200735,24/2/2026,24,Feb,2026,Vendor_4,Marketing,Social media marketing,"34,985.75",21k-50k
+PO-200640,25/2/2026,25,Feb,2026,Vendor_5,Marketing,Brand promotion services,"58,549.01",51k-100k
+PO-200781,25/2/2026,25,Feb,2026,Vendor_15,Entertainment,Client entertainment event,"4,146.28",2k-5k
+PO-200698,27/2/2026,27,Feb,2026,Vendor_11,Entertainment,Client entertainment event,"8,170.67",6k-20k
+PO-200097,28/2/2026,28,Feb,2026,Vendor_7,Travel,Corporate travel package,"7,543.54",6k-20k
+PO-200093,1/3/2026,1,Mar,2026,Vendor_1,Marketing,Brand promotion services,"214,023.75",>101k
+PO-200872,1/3/2026,1,Mar,2026,Vendor_13,Entertainment,Client entertainment event,"9,631.08",6k-20k
+PO-200077,2/3/2026,2,Mar,2026,Vendor_12,Entertainment,Team engagement event,"7,700.61",6k-20k
+PO-200600,2/3/2026,2,Mar,2026,Vendor_1,Marketing,Brand promotion services,"205,502.43",>101k
+PO-200645,3/3/2026,3,Mar,2026,Vendor_9,Travel,Business travel expenses,"7,274.00",6k-20k
+PO-200800,3/3/2026,3,Mar,2026,Vendor_10,Travel,Flight bookings,"8,761.08",6k-20k
+PO-200308,4/3/2026,4,Mar,2026,Vendor_1,Travel,Business travel expenses,"219,896.56",>101k
+PO-200158,5/3/2026,5,Mar,2026,Vendor_4,Marketing,Brand promotion services,"32,140.09",21k-50k
+PO-200644,5/3/2026,5,Mar,2026,Vendor_15,Entertainment,Team engagement event,"3,622.33",2k-5k
+PO-200174,7/3/2026,7,Mar,2026,Vendor_8,Travel,Business travel expenses,"8,976.42",6k-20k
+PO-200709,7/3/2026,7,Mar,2026,Vendor_4,Marketing,Social media marketing,"33,570.39",21k-50k
+PO-200035,8/3/2026,8,Mar,2026,Vendor_6,Marketing,Market research services,"3,865.70",2k-5k
+PO-200120,8/3/2026,8,Mar,2026,Vendor_10,Travel,Flight bookings,"4,382.36",2k-5k
+PO-200155,8/3/2026,8,Mar,2026,Vendor_8,Travel,Hotel accommodation,"2,827.48",2k-5k
+PO-200171,8/3/2026,8,Mar,2026,Vendor_15,Entertainment,Corporate hospitality,"7,899.18",6k-20k
+PO-200220,8/3/2026,8,Mar,2026,Vendor_2,Marketing,Digital advertising campaign,"92,260.37",51k-100k
+PO-200263,10/3/2026,10,Mar,2026,Vendor_2,Marketing,Social media marketing,"211,378.47",>101k
+PO-200368,10/3/2026,10,Mar,2026,Vendor_2,Travel,Flight bookings,"170,989.16",>101k
+PO-200498,10/3/2026,10,Mar,2026,Vendor_8,Travel,Hotel accommodation,"9,879.02",6k-20k
+PO-200156,11/3/2026,11,Mar,2026,Vendor_12,Entertainment,Client entertainment event,"3,648.34",2k-5k
+PO-200385,11/3/2026,11,Mar,2026,Vendor_10,Travel,Business travel expenses,"8,949.82",6k-20k
+PO-200962,13/3/2026,13,Mar,2026,Vendor_10,Travel,Business travel expenses,"8,851.34",6k-20k
+PO-200894,14/3/2026,14,Mar,2026,Vendor_11,Entertainment,Team engagement event,"7,088.91",6k-20k
+PO-200327,15/3/2026,15,Mar,2026,Vendor_5,Marketing,Market research services,"24,821.42",21k-50k
+PO-200328,17/3/2026,17,Mar,2026,Vendor_11,Entertainment,Team engagement event,"7,885.54",6k-20k
+PO-200398,19/3/2026,19,Mar,2026,Vendor_11,Entertainment,Team engagement event,"8,435.78",6k-20k
+PO-200763,20/3/2026,20,Mar,2026,Vendor_9,Travel,Business travel expenses,"10,720.48",6k-20k
+PO-200237,21/3/2026,21,Mar,2026,Vendor_8,Travel,Corporate travel package,"7,427.24",6k-20k
+PO-200402,22/3/2026,22,Mar,2026,Vendor_11,Entertainment,Team engagement event,"2,436.62",2k-5k
+PO-200184,23/3/2026,23,Mar,2026,Vendor_13,Entertainment,Client entertainment event,"7,034.17",6k-20k
+PO-200434,23/3/2026,23,Mar,2026,Vendor_7,Travel,Business travel expenses,"2,299.74",2k-5k
+PO-200591,23/3/2026,23,Mar,2026,Vendor_10,Travel,Flight bookings,"11,331.13",6k-20k
+PO-200659,25/3/2026,25,Mar,2026,Vendor_3,Travel,Business travel expenses,"46,236.78",21k-50k
+PO-200326,27/3/2026,27,Mar,2026,Vendor_13,Entertainment,Team engagement event,"6,277.73",6k-20k
+PO-200727,27/3/2026,27,Mar,2026,Vendor_5,Marketing,Social media marketing,"33,433.30",21k-50k
+PO-200794,29/3/2026,29,Mar,2026,Vendor_4,Marketing,Market research services,"55,823.99",51k-100k
+PO-200090,30/3/2026,30,Mar,2026,Vendor_1,Travel,Hotel accommodation,"146,501.62",>101k
