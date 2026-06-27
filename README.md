@@ -3,18 +3,18 @@
 ## Project Overview
 This project presents an interactive Procurement Spend Dashboard developed in Power BI to monitor procurement spending, analyze vendor performance, and identify purchasing trends. The dashboard is designed to provide decision-makers with actionable insights through interactive visualizations and KPI tracking.
 
-## Project Objectives
-- Monitor overall procurement spending.
-- Analyze spending by category and vendor.
-- Track monthly and yearly procurement trends.
-- Identify top purchase orders and vendor concentration.
-- Support data-driven procurement decisions.
+## Objectives
+The main objectives of this project are:
+- To track and analyze procurement spending
+- To identify top vendors and categories
+- To monitor procurement trends over time
+- To support data-driven decision making for management
 
 ## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+- Microsoft Excel (Data Preparation)
+- Power BI (Dashboard Development)
+- DAX (Data Analysis Expressions)
+- Data Visualization Technique
 
 ## Dashboard Features
 - Procurement Spend Overview
@@ -28,15 +28,16 @@ This project presents an interactive Procurement Spend Dashboard developed in Po
 - Interactive Slicers (Year, Category, Vendor, Quarter, Month)
 
 ## Key KPIs
-- Total Spend
-- Total Purchase Orders
-- Average PO Value
-- Spend Growth (%)
+- Identified top spending categories contributing to total procurement cost
+- Highlighted key vendors with highest transaction volume
+- Observed monthly spending trends and fluctuations
+- Enabled comparison between planned vs actual procurement activiti
 
 ## Files
-- Procurement Dashboard (.pbix)
-- Dashboard PDF
-- Dashboard Screenshots
+- Power BI file (.pbix)
+- Dataset (.xlsx)
+- Dashboard report (.pdf)
+- Dashboard screenshots (.png
 
 ## Disclaimer
 This project is created for portfolio and learning purposes. Any datasets used have been anonymized or are intended solely for demonstration purposes.
